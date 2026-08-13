@@ -1,0 +1,448 @@
+{
+  "items": [
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "PostHog",
+          "description": "Open-source product analytics to track users, events, funnels and trends. Alternative to Mixpanel/Amplitude/Heap. Also includes session recording (alternative to HotJar) and feature flag/experimentation tools (alternative to Optimizely).(Source Code)",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-08-13T16:07:11Z",
+            "owner": "PostHog",
+            "repo": "posthog",
+            "stars": 37653
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Druid",
+          "description": "Distributed, column-oriented, real-time analytics data store. (Source Code)",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Java",
+            "last_commit": "2026-08-13T05:00:58Z",
+            "owner": "apache",
+            "repo": "druid",
+            "stars": 14041
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "GrowthBook",
+          "description": "Open-source A/B testing and feature flagging that uses your existing data sources.(Source Code)",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "TypeScript",
+            "last_commit": "2026-08-13T16:05:22Z",
+            "owner": "growthbook",
+            "repo": "growthbook",
+            "stars": 8119
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Deepnote",
+          "description": "Deepnote is a drop-in replacement for Jupyter and an AI-native data workspace for modern data teams. (GitHub)",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "TypeScript",
+            "last_commit": "2026-08-13T12:36:40Z",
+            "owner": "deepnote",
+            "repo": "deepnote",
+            "stars": 2998
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Open Web Analytics",
+          "description": "Google Analytics and Matomo alternative. (Source Code)",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "PHP",
+            "last_commit": "2026-08-04T16:59:34Z",
+            "owner": "Open-Web-Analytics",
+            "repo": "Open-Web-Analytics",
+            "stars": 2683
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Rakam",
+          "description": "Custom analytics platform that lets you to create your own analytics service. Integrate with any data source (web, mobile, IoT etc.), analyze data with SQL and create dashboards. (Source Code)",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Java",
+            "last_commit": "2021-11-13T01:21:45Z",
+            "owner": "rakam-io",
+            "repo": "rakam-api",
+            "stars": 791
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "AWStats",
+          "description": "Generates web, streaming, ftp or mail server statistics graphically. (Source Code)",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Perl",
+            "last_commit": "2025-11-10T10:16:51Z",
+            "owner": "eldy",
+            "repo": "AWStats",
+            "stars": 434
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "EDA",
+          "description": "Open source analytics/BI tool. (Source Code)",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "TypeScript",
+            "last_commit": "2026-08-11T19:03:50Z",
+            "owner": "jortilles",
+            "repo": "EDA",
+            "stars": 204
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Superset-Datafusion",
+          "description": "Superset integration for Datafusion",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Rust",
+            "last_commit": "2025-09-14T09:47:34Z",
+            "owner": "frett27",
+            "repo": "superset-datafusion",
+            "stars": 1
+          }
+        }
+      ],
+      "title": "General analytics"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "Umami",
+          "description": "Umami is a simple, fast, privacy-focused alternative to Google Analytics. Umami is GDPR compliant. (Source Code)",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "TypeScript",
+            "last_commit": "2026-08-13T13:48:00Z",
+            "owner": "umami-software",
+            "repo": "umami",
+            "stars": 38179
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "KISSS",
+          "description": "Very minimalistic (KISS) website statistics tool. (Source Code)",
+          "children": []
+        }
+      ],
+      "title": "Website analytics"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "Umami",
+          "description": "Umami is a simple, easy to use, self-hosted web analytics solution. The goal is to provide you with a friendlier, privacy-focused alternative to Google Analytics and a free, open-sourced alternative to paid solutions. (Demo, Source Code)",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "TypeScript",
+            "last_commit": "2026-08-13T13:48:00Z",
+            "owner": "umami-software",
+            "repo": "umami",
+            "stars": 38179
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Plausible Analytics",
+          "description": "Lightweight and open source web analytics. Doesn’t use cookies and doesn't track personal data. A privacy-friendly alternative to Google Analytics. (Demo, Source Code)",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Elixir",
+            "last_commit": "2026-08-13T13:20:55Z",
+            "owner": "plausible",
+            "repo": "analytics",
+            "stars": 28490
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Fathom Lite",
+          "description": "Fathom Lite, a lightweight version of Fathom Analytics",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Go",
+            "last_commit": "2026-03-18T09:11:04Z",
+            "owner": "usefathom",
+            "repo": "fathom",
+            "stars": 8012
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "GoatCounter",
+          "description": "GoatCounter is an open source web analytics platform available as a hosted service (free for non-commercial use) or self-hosted app. (Source, Demo)",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Go",
+            "last_commit": "2026-08-08T18:28:57Z",
+            "owner": "arp242",
+            "repo": "goatcounter",
+            "stars": 5880
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Ackee",
+          "description": "Self-hosted analytics tool for those who care about privacy. (Demo, Source Code)",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2026-07-25T09:01:11Z",
+            "owner": "electerious",
+            "repo": "Ackee",
+            "stars": 4688
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Shynet",
+          "description": "Modern, privacy-friendly, and detailed web analytics that works without cookies or JS. Designed for self-hosting.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-03-15T23:00:29Z",
+            "owner": "milesmcc",
+            "repo": "shynet",
+            "stars": 3149
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Swetrix",
+          "description": "European OSS product & web analytics, (Source Code) /",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "TypeScript",
+            "last_commit": "2026-08-07T00:25:33Z",
+            "owner": "Swetrix",
+            "repo": "swetrix",
+            "stars": 1120
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Offen",
+          "description": "Offen is a fair and open web analytics tool. Gain insights while your users have full access to their data. Lightweight, self hosted and free. (Demo, Source Code)",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2026-03-04T05:53:41Z",
+            "owner": "offen",
+            "repo": "offen",
+            "stars": 979
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Koko Analytics",
+          "description": "Privacy-friendly and open source analytics plugin for WordPress. (Source Code)",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "PHP",
+            "last_commit": "2026-08-12T14:42:26Z",
+            "owner": "ibericode",
+            "repo": "koko-analytics",
+            "stars": 399
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Freshlytics",
+          "description": "Privacy respecting, cookie free and low resource usage analytics platform.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "TypeScript",
+            "last_commit": "2026-02-13T15:14:41Z",
+            "owner": "sheshbabu",
+            "repo": "freshlytics",
+            "stars": 362
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Kindmetrics",
+          "description": "Clean privacy-focused website analytics. (Source Code)",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Crystal",
+            "last_commit": "2023-01-08T15:24:45Z",
+            "owner": "kindmetrics",
+            "repo": "kindmetrics",
+            "stars": 98
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "piratepx",
+          "description": "Just a little analytics insight for your personal or indie project. 100% free and open source. (Demo, Source)",
+          "children": [],
+          "repo_info": {
+            "archived": true,
+            "language": "JavaScript",
+            "last_commit": "2025-11-04T01:34:36Z",
+            "owner": "piratepx",
+            "repo": "app",
+            "stars": 87
+          }
+        }
+      ],
+      "title": "Privacy focused analytics"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "Superset",
+          "description": "Modern, enterprise-ready business intelligence web application. (Source Code)",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-08-13T14:07:21Z",
+            "owner": "apache",
+            "repo": "superset",
+            "stars": 74252
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Metabase",
+          "description": "Metabase is the easy, open source way for everyone in your company to ask questions and learn from data. Simple Dashboarding and GUI Query tool, Nightly Emails and Slack Integration w/ PostgreSQL, MySQL, Redshift and other DBs. (Source Code)",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Clojure",
+            "last_commit": "2026-08-13T16:06:33Z",
+            "owner": "metabase",
+            "repo": "metabase",
+            "stars": 48744
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Redash",
+          "description": "connect to over 18 types of databases (SQL and \"NoSQL\"), query your data, visualize it and create dashboards. Everything has a URL that can be shared. Slack and HipChat integration. (Demo, Source Code)",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-08-10T16:48:54Z",
+            "owner": "getredash",
+            "repo": "redash",
+            "stars": 28745
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Freeboard",
+          "description": "open source real-time dashboard builder for IOT and other web mashups.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2023-09-23T21:14:02Z",
+            "owner": "Freeboard",
+            "repo": "freeboard",
+            "stars": 6504
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Chartbrew",
+          "description": "Chartbrew allows you to query your databases and APIs to create live charts and visualize your data. Featuring automatic chart updates, sharing, embedding, printing, exporting, and team support with granular permissions. (Demo, Source Code)",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2026-08-13T04:54:35Z",
+            "owner": "chartbrew",
+            "repo": "chartbrew",
+            "stars": 3974
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Socioboard",
+          "description": "Social media management, analytics, and reporting platform supporting nine social media networks out-of-the-box. (Source Code)",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2026-01-30T21:00:00Z",
+            "owner": "socioboard",
+            "repo": "Socioboard-5.0",
+            "stars": 1491
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "EDA",
+          "description": "EDA is an user friendly Analtical Tool specially designed for busines users. (Source Code)",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "TypeScript",
+            "last_commit": "2026-08-11T19:03:50Z",
+            "owner": "jortilles",
+            "repo": "EDA",
+            "stars": 204
+          }
+        }
+      ],
+      "title": "Analytics dashboards"
+    }
+  ],
+  "metadata": {
+    "last_updated": "2026-08-13T16:07:37.498Z",
+    "original_repository": "oxnr/awesome-analytics",
+    "original_repository_sha": "d330a0c0712a02f49638601bbea4909d7d3c8978",
+    "enhanced_repository": "enhansome/enhansome-analytics",
+    "enhanced_repository_description": null,
+    "title": "Awesome Analytics with stars"
+  }
+}
