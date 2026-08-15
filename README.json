@@ -11,10 +11,10 @@
           "repo_info": {
             "archived": false,
             "language": "Python",
-            "last_commit": "2026-08-14T16:02:33Z",
+            "last_commit": "2026-08-15T15:31:25Z",
             "owner": "PostHog",
             "repo": "posthog",
-            "stars": 37679
+            "stars": 37696
           }
         },
         {
@@ -25,10 +25,10 @@
           "repo_info": {
             "archived": false,
             "language": "Java",
-            "last_commit": "2026-08-14T14:57:02Z",
+            "last_commit": "2026-08-15T03:25:14Z",
             "owner": "apache",
             "repo": "druid",
-            "stars": 14041
+            "stars": 14042
           }
         },
         {
@@ -39,10 +39,10 @@
           "repo_info": {
             "archived": false,
             "language": "TypeScript",
-            "last_commit": "2026-08-14T14:41:27Z",
+            "last_commit": "2026-08-15T07:20:31Z",
             "owner": "growthbook",
             "repo": "growthbook",
-            "stars": 8124
+            "stars": 8129
           }
         },
         {
@@ -53,7 +53,7 @@
           "repo_info": {
             "archived": false,
             "language": "TypeScript",
-            "last_commit": "2026-08-14T14:27:21Z",
+            "last_commit": "2026-08-14T22:57:07Z",
             "owner": "deepnote",
             "repo": "deepnote",
             "stars": 2998
@@ -67,7 +67,7 @@
           "repo_info": {
             "archived": false,
             "language": "PHP",
-            "last_commit": "2026-08-04T16:59:34Z",
+            "last_commit": "2026-08-15T00:45:22Z",
             "owner": "Open-Web-Analytics",
             "repo": "Open-Web-Analytics",
             "stars": 2683
@@ -143,10 +143,10 @@
           "repo_info": {
             "archived": false,
             "language": "TypeScript",
-            "last_commit": "2026-08-13T17:18:01Z",
+            "last_commit": "2026-08-14T17:32:16Z",
             "owner": "umami-software",
             "repo": "umami",
-            "stars": 38190
+            "stars": 38196
           }
         },
         {
@@ -169,10 +169,10 @@
           "repo_info": {
             "archived": false,
             "language": "TypeScript",
-            "last_commit": "2026-08-13T17:18:01Z",
+            "last_commit": "2026-08-14T17:32:16Z",
             "owner": "umami-software",
             "repo": "umami",
-            "stars": 38190
+            "stars": 38196
           }
         },
         {
@@ -183,10 +183,10 @@
           "repo_info": {
             "archived": false,
             "language": "Elixir",
-            "last_commit": "2026-08-14T15:53:33Z",
+            "last_commit": "2026-08-14T16:50:09Z",
             "owner": "plausible",
             "repo": "analytics",
-            "stars": 28532
+            "stars": 28553
           }
         },
         {
@@ -214,7 +214,7 @@
             "last_commit": "2026-08-14T15:05:48Z",
             "owner": "arp242",
             "repo": "goatcounter",
-            "stars": 5883
+            "stars": 5884
           }
         },
         {
@@ -228,7 +228,7 @@
             "last_commit": "2026-07-25T09:01:11Z",
             "owner": "electerious",
             "repo": "Ackee",
-            "stars": 4689
+            "stars": 4690
           }
         },
         {
@@ -242,7 +242,7 @@
             "last_commit": "2026-03-15T23:00:29Z",
             "owner": "milesmcc",
             "repo": "shynet",
-            "stars": 3149
+            "stars": 3148
           }
         },
         {
@@ -256,7 +256,7 @@
             "last_commit": "2026-08-13T22:43:54Z",
             "owner": "Swetrix",
             "repo": "swetrix",
-            "stars": 1121
+            "stars": 1122
           }
         },
         {
@@ -343,10 +343,10 @@
           "repo_info": {
             "archived": false,
             "language": "Python",
-            "last_commit": "2026-08-14T15:38:25Z",
+            "last_commit": "2026-08-15T11:08:56Z",
             "owner": "apache",
             "repo": "superset",
-            "stars": 74254
+            "stars": 74268
           }
         },
         {
@@ -357,10 +357,10 @@
           "repo_info": {
             "archived": false,
             "language": "Clojure",
-            "last_commit": "2026-08-14T16:02:03Z",
+            "last_commit": "2026-08-15T14:53:15Z",
             "owner": "metabase",
             "repo": "metabase",
-            "stars": 48758
+            "stars": 48771
           }
         },
         {
@@ -374,7 +374,7 @@
             "last_commit": "2026-08-10T16:48:54Z",
             "owner": "getredash",
             "repo": "redash",
-            "stars": 28745
+            "stars": 28747
           }
         },
         {
@@ -402,7 +402,7 @@
             "last_commit": "2026-08-13T04:54:35Z",
             "owner": "chartbrew",
             "repo": "chartbrew",
-            "stars": 3982
+            "stars": 4015
           }
         },
         {
@@ -416,7 +416,7 @@
             "last_commit": "2026-01-30T21:00:00Z",
             "owner": "socioboard",
             "repo": "Socioboard-5.0",
-            "stars": 1491
+            "stars": 1492
           }
         },
         {
@@ -438,7 +438,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-14T16:03:00.164Z",
+    "last_updated": "2026-08-15T15:32:48.980Z",
     "original_repository": "oxnr/awesome-analytics",
     "original_repository_sha": "d330a0c0712a02f49638601bbea4909d7d3c8978",
     "enhanced_repository": "enhansome/enhansome-analytics",
