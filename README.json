@@ -12,10 +12,10 @@
             "archived": false,
             "id": 235901813,
             "language": "Python",
-            "last_commit": "2026-08-19T12:19:54Z",
+            "last_commit": "2026-08-19T15:43:32Z",
             "owner": "PostHog",
             "repo": "posthog",
-            "stars": 37771
+            "stars": 37773
           }
         },
         {
@@ -27,7 +27,7 @@
             "archived": false,
             "id": 6358188,
             "language": "Java",
-            "last_commit": "2026-08-19T05:30:56Z",
+            "last_commit": "2026-08-19T13:36:37Z",
             "owner": "apache",
             "repo": "druid",
             "stars": 14044
@@ -42,7 +42,7 @@
             "archived": false,
             "id": 365373172,
             "language": "TypeScript",
-            "last_commit": "2026-08-19T11:24:27Z",
+            "last_commit": "2026-08-19T15:37:34Z",
             "owner": "growthbook",
             "repo": "growthbook",
             "stars": 8139
@@ -57,7 +57,7 @@
             "archived": false,
             "id": 1066509034,
             "language": "TypeScript",
-            "last_commit": "2026-08-19T11:25:24Z",
+            "last_commit": "2026-08-19T13:46:41Z",
             "owner": "deepnote",
             "repo": "deepnote",
             "stars": 2999
@@ -72,7 +72,7 @@
             "archived": false,
             "id": 3891123,
             "language": "PHP",
-            "last_commit": "2026-08-19T07:24:07Z",
+            "last_commit": "2026-08-19T15:41:39Z",
             "owner": "Open-Web-Analytics",
             "repo": "Open-Web-Analytics",
             "stars": 2684
@@ -156,7 +156,7 @@
             "last_commit": "2026-08-18T21:16:08Z",
             "owner": "umami-software",
             "repo": "umami",
-            "stars": 38252
+            "stars": 38258
           }
         }
       ],
@@ -177,7 +177,7 @@
             "last_commit": "2026-08-18T21:16:08Z",
             "owner": "umami-software",
             "repo": "umami",
-            "stars": 38252
+            "stars": 38258
           }
         },
         {
@@ -189,10 +189,10 @@
             "archived": false,
             "id": 160427405,
             "language": "Elixir",
-            "last_commit": "2026-08-19T12:19:48Z",
+            "last_commit": "2026-08-19T15:16:59Z",
             "owner": "plausible",
             "repo": "analytics",
-            "stars": 28660
+            "stars": 28662
           }
         },
         {
@@ -267,7 +267,7 @@
             "last_commit": "2026-08-18T00:41:13Z",
             "owner": "Swetrix",
             "repo": "swetrix",
-            "stars": 1123
+            "stars": 1136
           }
         },
         {
@@ -360,7 +360,7 @@
             "archived": false,
             "id": 39464018,
             "language": "Python",
-            "last_commit": "2026-08-19T11:03:15Z",
+            "last_commit": "2026-08-19T15:30:37Z",
             "owner": "apache",
             "repo": "superset",
             "stars": 74311
@@ -375,10 +375,10 @@
             "archived": false,
             "id": 30203935,
             "language": "Clojure",
-            "last_commit": "2026-08-19T12:16:47Z",
+            "last_commit": "2026-08-19T15:43:24Z",
             "owner": "metabase",
             "repo": "metabase",
-            "stars": 48830
+            "stars": 48834
           }
         },
         {
@@ -420,7 +420,7 @@
             "archived": false,
             "id": 205167638,
             "language": "JavaScript",
-            "last_commit": "2026-08-13T04:54:35Z",
+            "last_commit": "2026-08-19T14:48:35Z",
             "owner": "chartbrew",
             "repo": "chartbrew",
             "stars": 4041
@@ -474,7 +474,7 @@
             "last_commit": "2026-08-18T13:28:50Z",
             "owner": "sindresorhus",
             "repo": "awesome",
-            "stars": 497656
+            "stars": 497718
           }
         },
         {
@@ -519,7 +519,7 @@
             "last_commit": "2026-03-23T20:19:22Z",
             "owner": "jnv",
             "repo": "lists",
-            "stars": 11422
+            "stars": 11421
           }
         },
         {
@@ -542,7 +542,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-19T12:19:57.007Z",
+    "last_updated": "2026-08-19T15:43:34.494Z",
     "original_repository": "oxnr/awesome-analytics",
     "original_repository_id": 21604034,
     "original_repository_sha": "d330a0c0712a02f49638601bbea4909d7d3c8978",
