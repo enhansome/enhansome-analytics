@@ -10,12 +10,33 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": ":hedgehog: PostHog is the leading platform for building self-driving products. Our developer tools – AI observability, analytics, session replay, flags, experiments, error tracking, logs, and more – capture all the context agents need to diagnose problems, uncover opportunities, and ship fixes. Steer it all from Slack, web, desktop, or the MCP.",
+            "homepage": "https://posthog.com",
             "id": 235901813,
             "language": "Python",
-            "last_commit": "2026-08-29T00:00:08Z",
+            "license": "NOASSERTION",
+            "last_commit": "2026-08-29T04:10:14Z",
+            "open_issues": 5142,
             "owner": "PostHog",
             "repo": "posthog",
-            "stars": 39422
+            "stars": 39436,
+            "topics": [
+              "ab-testing",
+              "ai-analytics",
+              "analytics",
+              "cdp",
+              "data-warehouse",
+              "experiments",
+              "feature-flags",
+              "javascript",
+              "product-analytics",
+              "python",
+              "react",
+              "session-replay",
+              "surveys",
+              "typescript",
+              "web-analytics"
+            ]
           },
           "first_seen": "2026-08-29T00:00:15.723Z"
         },
@@ -26,12 +47,19 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Apache Druid: a high performance real-time analytics database.",
+            "homepage": "https://druid.apache.org/",
             "id": 6358188,
             "language": "Java",
-            "last_commit": "2026-08-28T23:59:57Z",
+            "license": "Apache-2.0",
+            "last_commit": "2026-08-29T03:57:52Z",
+            "open_issues": 789,
             "owner": "apache",
             "repo": "druid",
-            "stars": 14047
+            "stars": 14047,
+            "topics": [
+              "druid"
+            ]
           },
           "first_seen": "2026-08-29T00:00:15.723Z"
         },
@@ -42,12 +70,38 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Open Source Feature Flags, Experimentation, and Product Analytics",
+            "homepage": "https://www.growthbook.io",
             "id": 365373172,
             "language": "TypeScript",
-            "last_commit": "2026-08-28T23:05:33Z",
+            "license": "NOASSERTION",
+            "last_commit": "2026-08-29T01:22:26Z",
+            "open_issues": 897,
             "owner": "growthbook",
             "repo": "growthbook",
-            "stars": 8168
+            "stars": 8168,
+            "topics": [
+              "ab-testing",
+              "abtest",
+              "abtesting",
+              "analytics",
+              "bigquery",
+              "clickhouse",
+              "continuous-delivery",
+              "data-analysis",
+              "data-engineering",
+              "data-science",
+              "databricks",
+              "experimentation",
+              "feature-flagging",
+              "feature-flags",
+              "redshift",
+              "remote-config",
+              "snowflake",
+              "split-testing",
+              "statistics",
+              "warehouse-native"
+            ]
           },
           "first_seen": "2026-08-29T00:00:15.723Z"
         },
@@ -58,12 +112,33 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Deepnote is a drop-in replacement for Jupyter with an AI-first design, sleek UI, new blocks, and native data integrations. Use Python, R, and SQL locally in your favorite IDE, then scale to Deepnote cloud for real-time collaboration, Deepnote agent, and deployable data apps. https://deepnote.com/",
+            "homepage": "https://deepnote.com/?utm_source=github&utm_medium=github&utm_campaign=github&utm_content=readme_main",
             "id": 1066509034,
             "language": "TypeScript",
+            "license": "Apache-2.0",
             "last_commit": "2026-08-28T21:08:22Z",
+            "open_issues": 30,
             "owner": "deepnote",
             "repo": "deepnote",
-            "stars": 2998
+            "stars": 2998,
+            "topics": [
+              "artificial-intelligence",
+              "data",
+              "data-analysis",
+              "data-science",
+              "data-visualization",
+              "deepnote",
+              "eda",
+              "jupyter",
+              "jupyterhub",
+              "jupyterlab",
+              "machine-learning",
+              "notebooks",
+              "python",
+              "r",
+              "sql"
+            ]
           },
           "first_seen": "2026-08-29T00:00:15.723Z"
         },
@@ -74,12 +149,23 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Official repository for Open Web Analytics which is an open source alternative to commercial tools such as Google Analytics. Stay in control of the data you collect about the use of your website or app.  Please consider sponsoring this project.",
+            "homepage": "http://www.openwebanalytics.com",
             "id": 3891123,
             "language": "PHP",
-            "last_commit": "2026-08-28T23:52:04Z",
+            "license": "GPL-2.0",
+            "last_commit": "2026-08-29T01:03:26Z",
+            "open_issues": 115,
             "owner": "Open-Web-Analytics",
             "repo": "Open-Web-Analytics",
-            "stars": 2686
+            "stars": 2686,
+            "topics": [
+              "owa",
+              "php",
+              "privacy",
+              "web-analytics",
+              "website-traffic"
+            ]
           },
           "first_seen": "2026-08-29T00:00:15.723Z"
         },
@@ -90,12 +176,23 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "📈 Collect customer event data from your apps. (Note that this project only includes the API collector, not the visualization platform)",
+            "homepage": "https://rakam.io",
             "id": 15971461,
             "language": "Java",
+            "license": "AGPL-3.0",
             "last_commit": "2021-11-13T01:21:45Z",
+            "open_issues": 13,
             "owner": "rakam-io",
             "repo": "rakam-api",
-            "stars": 791
+            "stars": 791,
+            "topics": [
+              "analytics",
+              "analytics-platform",
+              "bi-server",
+              "big-data",
+              "java"
+            ]
           },
           "first_seen": "2026-08-29T00:00:15.723Z"
         },
@@ -106,12 +203,23 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "AWStats Log Analyzer project (official sources)",
+            "homepage": "https://www.awstats.org",
             "id": 40718450,
             "language": "Perl",
+            "license": null,
             "last_commit": "2025-11-10T10:16:51Z",
+            "open_issues": 136,
             "owner": "eldy",
             "repo": "AWStats",
-            "stars": 434
+            "stars": 434,
+            "topics": [
+              "analyzer",
+              "awstats",
+              "log",
+              "web",
+              "web-statistics"
+            ]
           },
           "first_seen": "2026-08-29T00:00:15.723Z"
         },
@@ -122,12 +230,22 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Edalitics is an open-source business intelligence platform that lets you build interactive dashboards, analyze data from multiple sources, and connect AI assistants to your business data in minutes.",
+            "homepage": "https://www.edalitics.com",
             "id": 231346548,
             "language": "TypeScript",
+            "license": "AGPL-3.0",
             "last_commit": "2026-08-28T15:11:52Z",
+            "open_issues": 14,
             "owner": "jortilles",
             "repo": "EDA",
-            "stars": 204
+            "stars": 204,
+            "topics": [
+              "analytics",
+              "business-analytics",
+              "business-intelligence",
+              "data-visualization"
+            ]
           },
           "first_seen": "2026-08-29T00:00:15.723Z"
         },
@@ -138,12 +256,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Superset driver for datafusion engine",
+            "homepage": null,
             "id": 1052481996,
             "language": "Rust",
+            "license": "Apache-2.0",
             "last_commit": "2025-09-14T09:47:34Z",
+            "open_issues": 0,
             "owner": "frett27",
             "repo": "superset-datafusion",
-            "stars": 1
+            "stars": 1,
+            "topics": []
           },
           "first_seen": "2026-08-29T00:00:15.723Z"
         }
@@ -160,12 +283,27 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Umami is a privacy-first analytics platform. Traffic, campaigns, behavior, conversions, and revenue in one place — no cookies, no surveillance, self-hosted or in the cloud.",
+            "homepage": "https://umami.is",
             "id": 280363952,
             "language": "TypeScript",
+            "license": "MIT",
             "last_commit": "2026-08-27T07:17:29Z",
+            "open_issues": 114,
             "owner": "umami-software",
             "repo": "umami",
-            "stars": 38424
+            "stars": 38425,
+            "topics": [
+              "analytics",
+              "audience-segmentation",
+              "charts",
+              "cohort-analysis",
+              "google-analytics",
+              "product-analytics",
+              "statistics",
+              "user-journey",
+              "web-analytics"
+            ]
           },
           "first_seen": "2026-08-29T00:00:15.723Z"
         }
@@ -182,12 +320,38 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Privacy and Security focused Segment-alternative, in Golang and React  ",
+            "homepage": "https://www.rudderstack.com/",
             "id": 197743848,
             "language": "Go",
+            "license": "NOASSERTION",
             "last_commit": "2026-08-28T14:13:28Z",
+            "open_issues": 47,
             "owner": "rudderlabs",
             "repo": "rudder-server",
-            "stars": 4478
+            "stars": 4478,
+            "topics": [
+              "bigquery",
+              "cdp",
+              "customer-data",
+              "customer-data-lake",
+              "customer-data-pipeline",
+              "customer-data-platform",
+              "data-engineering",
+              "data-integration",
+              "data-pipeline",
+              "data-synchronization",
+              "data-warehouse",
+              "elt",
+              "etl",
+              "event-streaming",
+              "privacy",
+              "redshift",
+              "segment-alternative",
+              "snowflake",
+              "warehouse-management",
+              "warehouse-native"
+            ]
           },
           "first_seen": "2026-08-29T00:00:15.723Z"
         }
@@ -204,12 +368,21 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "description": "Rank tracker for SEO - LEGACY CODE",
+            "homepage": "https://www.serposcope.com",
             "id": 8861981,
             "language": "JavaScript",
+            "license": "MIT",
             "last_commit": "2024-01-22T17:15:48Z",
+            "open_issues": 67,
             "owner": "serphacker",
             "repo": "serposcope",
-            "stars": 757
+            "stars": 757,
+            "topics": [
+              "legacy",
+              "search-engine",
+              "seo"
+            ]
           },
           "first_seen": "2026-08-29T00:00:15.723Z"
         }
@@ -226,12 +399,27 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Umami is a privacy-first analytics platform. Traffic, campaigns, behavior, conversions, and revenue in one place — no cookies, no surveillance, self-hosted or in the cloud.",
+            "homepage": "https://umami.is",
             "id": 280363952,
             "language": "TypeScript",
+            "license": "MIT",
             "last_commit": "2026-08-27T07:17:29Z",
+            "open_issues": 114,
             "owner": "umami-software",
             "repo": "umami",
-            "stars": 38424
+            "stars": 38425,
+            "topics": [
+              "analytics",
+              "audience-segmentation",
+              "charts",
+              "cohort-analysis",
+              "google-analytics",
+              "product-analytics",
+              "statistics",
+              "user-journey",
+              "web-analytics"
+            ]
           },
           "first_seen": "2026-08-29T00:00:15.723Z"
         },
@@ -242,12 +430,38 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Open source, privacy-first web analytics. Lightweight, cookie-free Google Analytics alternative. Self-hosted or cloud.",
+            "homepage": "https://plausible.io",
             "id": 160427405,
             "language": "Elixir",
+            "license": "AGPL-3.0",
             "last_commit": "2026-08-27T09:21:12Z",
+            "open_issues": 62,
             "owner": "plausible",
             "repo": "analytics",
-            "stars": 28787
+            "stars": 28787,
+            "topics": [
+              "analytics",
+              "analytics-dashboard",
+              "clickhouse",
+              "elixir",
+              "google-analytics",
+              "marketing",
+              "open-source-analytics",
+              "phoenix",
+              "plausible-analytics",
+              "postgresql",
+              "privacy",
+              "privacy-friendly",
+              "self-hosted",
+              "simple-analytics",
+              "statistics",
+              "tailwindcss",
+              "web-analytics",
+              "website-analytics",
+              "website-stats",
+              "website-tracking"
+            ]
           },
           "first_seen": "2026-08-29T00:00:15.723Z"
         },
@@ -258,12 +472,26 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Fathom Lite. Simple, privacy-focused website analytics. Built with Golang & Preact.",
+            "homepage": "https://usefathom.com/",
             "id": 74236755,
             "language": "Go",
+            "license": "MIT",
             "last_commit": "2026-03-18T09:11:04Z",
+            "open_issues": 5,
             "owner": "usefathom",
             "repo": "fathom",
-            "stars": 8013
+            "stars": 8013,
+            "topics": [
+              "analytics",
+              "fathom",
+              "fathom-analytics",
+              "fathom-dashboard",
+              "google-analytics",
+              "metrics",
+              "privacy",
+              "website-analytics"
+            ]
           },
           "first_seen": "2026-08-29T00:00:15.723Z"
         },
@@ -274,12 +502,21 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Easy web analytics. No tracking of personal data.",
+            "homepage": "https://www.goatcounter.com",
             "id": 188968112,
             "language": "Go",
+            "license": "NOASSERTION",
             "last_commit": "2026-08-21T12:57:56Z",
+            "open_issues": 48,
             "owner": "arp242",
             "repo": "goatcounter",
-            "stars": 5919
+            "stars": 5920,
+            "topics": [
+              "analytics",
+              "go",
+              "golang"
+            ]
           },
           "first_seen": "2026-08-29T00:00:15.723Z"
         },
@@ -290,12 +527,22 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Self-hosted, Node.js based analytics tool for those who care about privacy.",
+            "homepage": "https://ackee.electerious.com",
             "id": 18831920,
             "language": "JavaScript",
+            "license": "MIT",
             "last_commit": "2026-08-16T10:30:14Z",
+            "open_issues": 47,
             "owner": "electerious",
             "repo": "Ackee",
-            "stars": 4691
+            "stars": 4691,
+            "topics": [
+              "analytics",
+              "google-analytics",
+              "privacy",
+              "website-analytics"
+            ]
           },
           "first_seen": "2026-08-29T00:00:15.723Z"
         },
@@ -306,12 +553,30 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Modern, privacy-friendly, and detailed web analytics that works without cookies or JS.",
+            "homepage": null,
             "id": 254441446,
             "language": "Python",
+            "license": "Apache-2.0",
             "last_commit": "2026-03-15T23:00:29Z",
+            "open_issues": 63,
             "owner": "milesmcc",
             "repo": "shynet",
-            "stars": 3150
+            "stars": 3150,
+            "topics": [
+              "a17t",
+              "analytics",
+              "django",
+              "docker",
+              "kubernetes",
+              "monitoring",
+              "noscript",
+              "privacy",
+              "python",
+              "security",
+              "self-hosted",
+              "web-analytics"
+            ]
           },
           "first_seen": "2026-08-29T00:00:15.723Z"
         },
@@ -322,12 +587,36 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "📈 Open source, privacy-first web analytics — a cookie-less Google Analytics alternative with built-in error tracking and performance monitoring. Self-host it or use our cloud. Get started for free!",
+            "homepage": "https://swetrix.com",
             "id": 349227174,
             "language": "TypeScript",
+            "license": "AGPL-3.0",
             "last_commit": "2026-08-28T00:00:19Z",
+            "open_issues": 15,
             "owner": "Swetrix",
             "repo": "swetrix",
-            "stars": 1177
+            "stars": 1177,
+            "topics": [
+              "charts",
+              "clickhouse",
+              "docker",
+              "gdpr",
+              "google-analytics",
+              "metrics",
+              "monitoring",
+              "mysql",
+              "nestjs",
+              "privacy",
+              "redis",
+              "self-hosted",
+              "selfhosted",
+              "statistics",
+              "tailwindcss",
+              "web-analytics",
+              "webanalytics",
+              "website"
+            ]
           },
           "first_seen": "2026-08-29T00:00:15.723Z"
         },
@@ -338,12 +627,23 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Offen Fair Web Analytics",
+            "homepage": "https://www.offen.dev",
             "id": 180605180,
             "language": "JavaScript",
+            "license": "Apache-2.0",
             "last_commit": "2026-03-04T05:53:41Z",
+            "open_issues": 18,
             "owner": "offen",
             "repo": "offen",
-            "stars": 979
+            "stars": 979,
+            "topics": [
+              "datensparsamkeit",
+              "fair",
+              "privacy",
+              "self-hosted",
+              "web-analytics"
+            ]
           },
           "first_seen": "2026-08-29T00:00:15.723Z"
         },
@@ -354,12 +654,28 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Privacy-friendly, open-source analytics for WordPress — GDPR compliant, cookieless, and fast",
+            "homepage": "https://www.kokoanalytics.com/",
             "id": 217326252,
             "language": "PHP",
+            "license": "GPL-3.0",
             "last_commit": "2026-08-12T14:42:26Z",
+            "open_issues": 8,
             "owner": "ibericode",
             "repo": "koko-analytics",
-            "stars": 399
+            "stars": 399,
+            "topics": [
+              "analytics",
+              "google-analytics",
+              "koko-analytics",
+              "privacy",
+              "site-analytics",
+              "site-statistics",
+              "statistics",
+              "website",
+              "wordpress",
+              "wordpress-plugin"
+            ]
           },
           "first_seen": "2026-08-29T00:00:15.723Z"
         },
@@ -370,12 +686,25 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Open source privacy-friendly analytics",
+            "homepage": null,
             "id": 188420632,
             "language": "TypeScript",
+            "license": "MIT",
             "last_commit": "2026-02-13T15:14:41Z",
+            "open_issues": 27,
             "owner": "sheshbabu",
             "repo": "freshlytics",
-            "stars": 362
+            "stars": 362,
+            "topics": [
+              "analytics",
+              "monitoring",
+              "privacy",
+              "privacy-by-design",
+              "privacy-preserving",
+              "self-hosted",
+              "web-analytics"
+            ]
           },
           "first_seen": "2026-08-29T00:00:15.723Z"
         },
@@ -386,12 +715,23 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Kind metrics analytics for your website",
+            "homepage": null,
             "id": 263928864,
             "language": "Crystal",
+            "license": "MIT",
             "last_commit": "2023-01-08T15:24:45Z",
+            "open_issues": 21,
             "owner": "kindmetrics",
             "repo": "kindmetrics",
-            "stars": 98
+            "stars": 98,
+            "topics": [
+              "analytics",
+              "crystal",
+              "google-analytics",
+              "lucky-framework",
+              "privacy"
+            ]
           },
           "first_seen": "2026-08-29T00:00:15.723Z"
         },
@@ -402,12 +742,28 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "description": "Just a little analytics insight for your personal or indie project",
+            "homepage": "https://www.piratepx.com",
             "id": 296591281,
             "language": "JavaScript",
+            "license": "MIT",
             "last_commit": "2025-11-04T01:34:36Z",
+            "open_issues": 0,
             "owner": "piratepx",
             "repo": "app",
-            "stars": 87
+            "stars": 87,
+            "topics": [
+              "analytics",
+              "counter",
+              "google-analytics",
+              "insight",
+              "metrics",
+              "no-cookies",
+              "no-javascript",
+              "privacy",
+              "stats",
+              "website-analytics"
+            ]
           },
           "first_seen": "2026-08-29T00:00:15.723Z"
         }
@@ -424,12 +780,36 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Apache Superset is a Data Visualization and Data Exploration Platform",
+            "homepage": "https://superset.apache.org/",
             "id": 39464018,
             "language": "Python",
-            "last_commit": "2026-08-28T23:33:50Z",
+            "license": "Apache-2.0",
+            "last_commit": "2026-08-29T04:07:17Z",
+            "open_issues": 611,
             "owner": "apache",
             "repo": "superset",
-            "stars": 74516
+            "stars": 74520,
+            "topics": [
+              "analytics",
+              "apache",
+              "apache-superset",
+              "asf",
+              "bi",
+              "business-analytics",
+              "business-intelligence",
+              "data-analysis",
+              "data-analytics",
+              "data-engineering",
+              "data-science",
+              "data-visualization",
+              "data-viz",
+              "flask",
+              "python",
+              "react",
+              "sql-editor",
+              "superset"
+            ]
           },
           "first_seen": "2026-08-29T00:00:15.723Z"
         },
@@ -440,12 +820,36 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "The easy-to-use open source Business Intelligence and Embedded Analytics tool that lets everyone work with data :bar_chart:",
+            "homepage": "https://metabase.com",
             "id": 30203935,
             "language": "Clojure",
-            "last_commit": "2026-08-28T23:50:07Z",
+            "license": "NOASSERTION",
+            "last_commit": "2026-08-29T04:07:28Z",
+            "open_issues": 4456,
             "owner": "metabase",
             "repo": "metabase",
-            "stars": 48981
+            "stars": 48981,
+            "topics": [
+              "analytics",
+              "bi",
+              "business-intelligence",
+              "businessintelligence",
+              "clojure",
+              "dashboard",
+              "data",
+              "data-analysis",
+              "data-visualization",
+              "database",
+              "metabase",
+              "mysql",
+              "postgres",
+              "postgresql",
+              "reporting",
+              "slack",
+              "sql-editor",
+              "visualization"
+            ]
           },
           "first_seen": "2026-08-29T00:00:15.723Z"
         },
@@ -456,12 +860,37 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Make Your Company Data Driven. Connect to any data source, easily visualize, dashboard and share your data.",
+            "homepage": "http://redash.io/",
             "id": 13926404,
             "language": "Python",
+            "license": "BSD-2-Clause",
             "last_commit": "2026-08-18T16:14:11Z",
+            "open_issues": 802,
             "owner": "getredash",
             "repo": "redash",
-            "stars": 28766
+            "stars": 28766,
+            "topics": [
+              "analytics",
+              "athena",
+              "bi",
+              "bigquery",
+              "business-intelligence",
+              "dashboard",
+              "databricks",
+              "hacktoberfest",
+              "javascript",
+              "mariadb",
+              "mysql",
+              "postgresql",
+              "python",
+              "redash",
+              "redshift",
+              "snowflake",
+              "spark",
+              "spark-sql",
+              "visualization"
+            ]
           },
           "first_seen": "2026-08-29T00:00:15.723Z"
         },
@@ -472,12 +901,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A damn-sexy, open source real-time dashboard builder for IOT and other web mashups. A free open-source alternative to Geckoboard.",
+            "homepage": "http://freeboard.io",
             "id": 11726302,
             "language": "JavaScript",
+            "license": "MIT",
             "last_commit": "2023-09-23T21:14:02Z",
+            "open_issues": 166,
             "owner": "Freeboard",
             "repo": "freeboard",
-            "stars": 6505
+            "stars": 6505,
+            "topics": []
           },
           "first_seen": "2026-08-29T00:00:15.723Z"
         },
@@ -488,12 +922,36 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Open-source reporting platform to build and share live dashboards from APIs, SQL and NoSQL databases, with powerful AI assistant, scheduling, and embeddable charts 📈📊",
+            "homepage": "https://chartbrew.com",
             "id": 205167638,
             "language": "JavaScript",
-            "last_commit": "2026-08-28T07:35:45Z",
+            "license": "NOASSERTION",
+            "last_commit": "2026-08-29T04:15:26Z",
+            "open_issues": 4,
             "owner": "chartbrew",
             "repo": "chartbrew",
-            "stars": 4050
+            "stars": 4050,
+            "topics": [
+              "analytics",
+              "api",
+              "chartjs",
+              "charts",
+              "dashboard",
+              "data-visualization",
+              "firebase",
+              "firebase-firestore",
+              "firestore",
+              "mongo",
+              "mongodb",
+              "mysql",
+              "nodejs",
+              "postgresql",
+              "react",
+              "reactjs",
+              "realtime-database",
+              "redux"
+            ]
           },
           "first_seen": "2026-08-29T00:00:15.723Z"
         },
@@ -504,12 +962,22 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Socioboard is world's first and open source Social Technology Enabler. Socioboard Core is our flagship product.",
+            "homepage": "http://www.socioboard.org",
             "id": 60350675,
             "language": "JavaScript",
+            "license": "NOASSERTION",
             "last_commit": "2026-08-17T05:41:02Z",
+            "open_issues": 33,
             "owner": "socioboard",
             "repo": "Socioboard-5.0",
-            "stars": 1495
+            "stars": 1495,
+            "topics": [
+              "linkedin",
+              "social-media",
+              "social-network",
+              "twitter"
+            ]
           },
           "first_seen": "2026-08-29T00:00:15.723Z"
         },
@@ -520,12 +988,22 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Edalitics is an open-source business intelligence platform that lets you build interactive dashboards, analyze data from multiple sources, and connect AI assistants to your business data in minutes.",
+            "homepage": "https://www.edalitics.com",
             "id": 231346548,
             "language": "TypeScript",
+            "license": "AGPL-3.0",
             "last_commit": "2026-08-28T15:11:52Z",
+            "open_issues": 14,
             "owner": "jortilles",
             "repo": "EDA",
-            "stars": 204
+            "stars": 204,
+            "topics": [
+              "analytics",
+              "business-analytics",
+              "business-intelligence",
+              "data-visualization"
+            ]
           },
           "first_seen": "2026-08-29T00:00:15.723Z"
         }
@@ -542,12 +1020,23 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "😎 Awesome lists about all kinds of interesting topics [NOTE: Pull requests are temporarily disabled until I have a chance to catch up with the existing ones]",
+            "homepage": null,
             "id": 21737465,
             "language": null,
+            "license": "CC0-1.0",
             "last_commit": "2026-08-21T12:39:13Z",
+            "open_issues": 105,
             "owner": "sindresorhus",
             "repo": "awesome",
-            "stars": 500853
+            "stars": 500890,
+            "topics": [
+              "awesome",
+              "awesome-list",
+              "lists",
+              "resources",
+              "unicorns"
+            ]
           },
           "first_seen": "2026-08-29T00:00:15.723Z"
         },
@@ -558,12 +1047,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A curated list of awesome awesomeness",
+            "homepage": null,
             "id": 21600440,
             "language": "Ruby",
+            "license": null,
             "last_commit": "2024-06-02T22:46:41Z",
+            "open_issues": 61,
             "owner": "bayandin",
             "repo": "awesome-awesomeness",
-            "stars": 33634
+            "stars": 33634,
+            "topics": []
           },
           "first_seen": "2026-08-29T00:00:15.723Z"
         },
@@ -574,12 +1068,33 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A curated list of awesome big data frameworks, ressources and other awesomeness.",
+            "homepage": "https://github.com/onurakpolat/awesome-bigdata",
             "id": 21500692,
             "language": null,
+            "license": "MIT",
             "last_commit": "2026-07-31T12:51:12Z",
+            "open_issues": 4,
             "owner": "oxnr",
             "repo": "awesome-bigdata",
-            "stars": 14600
+            "stars": 14600,
+            "topics": [
+              "awesome",
+              "awesome-list",
+              "bigdata",
+              "data",
+              "data-analytics",
+              "data-science",
+              "data-stream",
+              "data-visualization",
+              "data-warehouse",
+              "database",
+              "distributed-database",
+              "series-database",
+              "stream-processing",
+              "streaming-data",
+              "visualize-data"
+            ]
           },
           "first_seen": "2026-08-29T00:00:15.723Z"
         },
@@ -590,12 +1105,23 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "The definitive list of lists (of lists) curated on GitHub and elsewhere",
+            "homepage": null,
             "id": 14408715,
             "language": null,
+            "license": "CC0-1.0",
             "last_commit": "2026-03-23T20:19:22Z",
+            "open_issues": 22,
             "owner": "jnv",
             "repo": "lists",
-            "stars": 11441
+            "stars": 11441,
+            "topics": [
+              "awesome",
+              "awesome-list",
+              "curated-lists",
+              "lists",
+              "resources"
+            ]
           },
           "first_seen": "2026-08-29T00:00:15.723Z"
         },
@@ -606,12 +1132,20 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": ":octocat: A a curated list of curated lists of awesome lists.",
+            "homepage": null,
             "id": 21791117,
             "language": null,
+            "license": null,
             "last_commit": "2023-11-13T08:24:12Z",
+            "open_issues": 5,
             "owner": "t3chnoboy",
             "repo": "awesome-awesome-awesome",
-            "stars": 2243
+            "stars": 2243,
+            "topics": [
+              "awesome",
+              "awesome-list"
+            ]
           },
           "first_seen": "2026-08-29T00:00:15.723Z"
         }
@@ -620,15 +1154,20 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-29T00:00:15.723Z",
+    "last_updated": "2026-08-29T04:17:46.434Z",
     "original_repository_info": {
       "archived": false,
+      "description": "A curated list of analytics frameworks, software and other tools.",
+      "homepage": "https://github.com/onurakpolat/awesome-analytics",
       "id": 21604034,
       "language": null,
+      "license": "MIT",
       "last_commit": "2026-02-17T15:25:51Z",
+      "open_issues": 56,
       "owner": "oxnr",
       "repo": "awesome-analytics",
-      "stars": 4308
+      "stars": 4308,
+      "topics": []
     },
     "original_repository_sha": "d330a0c0712a02f49638601bbea4909d7d3c8978",
     "enhanced_repository": "enhansome/enhansome-analytics",
