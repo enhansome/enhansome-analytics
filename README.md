@@ -1,6 +1,6 @@
 # Awesome Analytics with stars
 
-A curated list of awesome analytics platforms, resources and other awesomeness. Inspired by [awesome-bigdata](https://github.com/onurakpolat/awesome-bigdata) ⭐ 14,651 | 🐛 6 | 📅 2026-07-31.
+A curated list of awesome analytics platforms, resources and other awesomeness. Inspired by [awesome-bigdata](https://github.com/onurakpolat/awesome-bigdata) ⭐ 14,650 | 🐛 6 | 📅 2026-07-31.
 
 Your feedback and contributions are always welcome! Maintained by [@onurakpolat](https://github.com/onurakpolat) & [@koconder](https://github.com/koconder)
 
@@ -24,11 +24,11 @@ Your feedback and contributions are always welcome! Maintained by [@onurakpolat]
 
 ## General analytics
 
-* [PostHog](https://posthog.com) - Open-source product analytics to track users, events, funnels and trends. Alternative to Mixpanel/Amplitude/Heap. Also includes session recording (alternative to HotJar) and feature flag/experimentation tools (alternative to Optimizely).([Source Code](https://github.com/posthog/posthog) ⭐ 39,935 | 🐛 5,671 | 🌐 Python | 📅 2026-09-25) `MIT` `Python`
-* [Druid](http://druid.io/) - Distributed, column-oriented, real-time analytics data store. ([Source Code](https://github.com/druid-io/druid) ⭐ 14,058 | 🐛 781 | 🌐 Java | 📅 2026-09-25) `Apache-2.0` `Java`
-* [GrowthBook](https://growthbook.io) - Open-source A/B testing and feature flagging that uses your existing data sources.([Source Code](https://github.com/growthbook/growthbook) ⭐ 8,430 | 🐛 817 | 🌐 TypeScript | 📅 2026-09-25) `MIT` `Typescript`
-* [Deepnote](https://deepnote.com/) - Deepnote is a drop-in replacement for Jupyter and an AI-native data workspace for modern data teams. ([GitHub](https://github.com/deepnote/deepnote) ⭐ 3,010 | 🐛 41 | 🌐 TypeScript | 📅 2026-09-25) `Apache-2.0` `©` `SaaS` `TypeScript`
-* [Open Web Analytics](http://www.openwebanalytics.com/) - Google Analytics and Matomo alternative. ([Source Code](https://github.com/padams/Open-Web-Analytics) ⭐ 2,689 | 🐛 115 | 🌐 PHP | 📅 2026-09-25) `GPL-2.0` `PHP`
+* [PostHog](https://posthog.com) - Open-source product analytics to track users, events, funnels and trends. Alternative to Mixpanel/Amplitude/Heap. Also includes session recording (alternative to HotJar) and feature flag/experimentation tools (alternative to Optimizely).([Source Code](https://github.com/posthog/posthog) ⭐ 39,946 | 🐛 5,752 | 🌐 Python | 📅 2026-09-26) `MIT` `Python`
+* [Druid](http://druid.io/) - Distributed, column-oriented, real-time analytics data store. ([Source Code](https://github.com/druid-io/druid) ⭐ 14,058 | 🐛 775 | 🌐 Java | 📅 2026-09-26) `Apache-2.0` `Java`
+* [GrowthBook](https://growthbook.io) - Open-source A/B testing and feature flagging that uses your existing data sources.([Source Code](https://github.com/growthbook/growthbook) ⭐ 8,437 | 🐛 821 | 🌐 TypeScript | 📅 2026-09-26) `MIT` `Typescript`
+* [Deepnote](https://deepnote.com/) - Deepnote is a drop-in replacement for Jupyter and an AI-native data workspace for modern data teams. ([GitHub](https://github.com/deepnote/deepnote) ⭐ 3,009 | 🐛 41 | 🌐 TypeScript | 📅 2026-09-26) `Apache-2.0` `©` `SaaS` `TypeScript`
+* [Open Web Analytics](http://www.openwebanalytics.com/) - Google Analytics and Matomo alternative. ([Source Code](https://github.com/padams/Open-Web-Analytics) ⭐ 2,687 | 🐛 115 | 🌐 PHP | 📅 2026-09-26) `GPL-2.0` `PHP`
 * [Rakam](https://rakam.io/) - Custom analytics platform that lets you to create your own analytics service. Integrate with any data source (web, mobile, IoT etc.), analyze data with SQL and create dashboards. ([Source Code](https://github.com/rakam-io/rakam) ⭐ 790 | 🐛 13 | 🌐 Java | 📅 2021-11-13) `Apache-2.0` `Java`
 * [AWStats](http://www.awstats.org/) - Generates web, streaming, ftp or mail server statistics graphically. ([Source Code](https://github.com/eldy/awstats) ⭐ 435 | 🐛 138 | 🌐 Perl | 📅 2025-11-10) `GPL-3.0` `Perl`
 * [EDA](https://eda.jortilles.com/en/jortilles-english/) - Open source analytics/BI tool.  ([Source Code](https://github.com/jortilles/EDA) ⭐ 207 | 🐛 9 | 🌐 TypeScript | 📅 2026-09-24) `Apache-2.0` `Angular/Nodejs`
@@ -72,16 +72,16 @@ Your feedback and contributions are always welcome! Maintained by [@onurakpolat]
 
 ## Real-time
 
-* [GoAccess](http://goaccess.io/) - Real-time web log analyzer and interactive viewer that runs in a terminal. ([Source Code](https://github.com/allinurl/goaccess) ⭐ 20,952 | 🐛 448 | 🌐 C | 📅 2026-09-24) `GPL-2.0` `C`
+* [GoAccess](http://goaccess.io/) - Real-time web log analyzer and interactive viewer that runs in a terminal. ([Source Code](https://github.com/allinurl/goaccess) ⭐ 20,953 | 🐛 448 | 🌐 C | 📅 2026-09-24) `GPL-2.0` `C`
 
 ## Website analytics
 
-* [Umami](https://umami.is) - Umami is a simple, fast, privacy-focused alternative to Google Analytics. Umami is GDPR compliant. ([Source Code](https://github.com/umami-software/umami) ⭐ 39,009 | 🐛 123 | 🌐 TypeScript | 📅 2026-09-25) `MIT` `JavaScript`
+* [Umami](https://umami.is) - Umami is a simple, fast, privacy-focused alternative to Google Analytics. Umami is GDPR compliant. ([Source Code](https://github.com/umami-software/umami) ⭐ 39,028 | 🐛 123 | 🌐 TypeScript | 📅 2026-09-26) `MIT` `JavaScript`
 * [KISSS](https://kis3.dev) - Very minimalistic (KISS) website statistics tool. ([Source Code](https://github.com/kis3/kis3)) `MIT` `Go`
 
 ## Endpoints
 
-* [RudderStack](https://rudderstack.com/) - The warehouse-first customer data platform (CDP) that builds your CDP on your data warehouse for you. RudderStack makes it easy to collect, unify, transform, and store your customer data as well as route it securely to a wide range of common, popular marketing, sales, and product tools (open-source alternative to Segment et al.). ([Source Code](https://github.com/rudderlabs/rudder-server/) ⭐ 4,488 | 🐛 45 | 🌐 Go | 📅 2026-09-25) `AGPL-3.0` `Go`
+* [RudderStack](https://rudderstack.com/) - The warehouse-first customer data platform (CDP) that builds your CDP on your data warehouse for you. RudderStack makes it easy to collect, unify, transform, and store your customer data as well as route it securely to a wide range of common, popular marketing, sales, and product tools (open-source alternative to Segment et al.). ([Source Code](https://github.com/rudderlabs/rudder-server/) ⭐ 4,489 | 🐛 43 | 🌐 Go | 📅 2026-09-25) `AGPL-3.0` `Go`
 * [Census](https://getcensus.com/) - The easiest way to sync your customer data from your cloud data warehouse to SaaS applications like Salesforce, Marketo, HubSpot, Zendesk, etc. Census is the operational analytics platform that syncs your data warehouse with all your favorite apps. Get your customer success, sales & marketing teams on the same page by keeping customer data in sync. No engineering favors required—just SQL. `SaaS`
 * [Snowplow](http://snowplowanalytics.com/) - Analytics tool for web apps with a lot of data. Have every single event, from your websites, mobile apps, desktop applications and server-side systems, stored in your own data warehouse and available to action in real-time. ([Source Code](https://github.com/snowplow/)) `Apache-2.0` `Scala` `real-time`
 
@@ -91,14 +91,14 @@ Your feedback and contributions are always welcome! Maintained by [@onurakpolat]
 
 ## Privacy focused analytics
 
-* [Umami](https://umami.is/) - Umami is a simple, easy to use, self-hosted web analytics solution. The goal is to provide you with a friendlier, privacy-focused alternative to Google Analytics and a free, open-sourced alternative to paid solutions. ([Demo](https://app.umami.is/share/ISgW2qz8/flightphp.com), [Source Code](https://github.com/mikecao/umami) ⭐ 39,009 | 🐛 123 | 🌐 TypeScript | 📅 2026-09-25) `MIT` `Nodejs`
-* [Plausible Analytics](https://plausible.io/) - Lightweight and [open source](https://github.com/plausible-insights/plausible) ⭐ 29,217 | 🐛 64 | 🌐 Elixir | 📅 2026-09-25 web analytics. Doesn’t use cookies and doesn't track personal data. A privacy-friendly alternative to Google Analytics. ([Demo](https://plausible.io/plausible.io), [Source Code](https://github.com/plausible/analytics/) ⭐ 29,217 | 🐛 64 | 🌐 Elixir | 📅 2026-09-25) `AGPL-3.0` `Elixir`
-* [Fathom Lite](https://github.com/usefathom/fathom) ⭐ 8,020 | 🐛 6 | 🌐 Go | 📅 2026-03-18 - Fathom Lite, a lightweight version of Fathom Analytics `MIT` `Self-Hosted`
-* [GoatCounter](https://www.goatcounter.com/) - GoatCounter is an open source web analytics platform available as a hosted service (free for non-commercial use) or self-hosted app. ([Source](https://github.com/arp242/goatcounter) ⭐ 6,004 | 🐛 50 | 🌐 Go | 📅 2026-09-20, [Demo](https://stats.arp242.net/)) `MIT` `SaaS` `Self-Hosted`
+* [Umami](https://umami.is/) - Umami is a simple, easy to use, self-hosted web analytics solution. The goal is to provide you with a friendlier, privacy-focused alternative to Google Analytics and a free, open-sourced alternative to paid solutions. ([Demo](https://app.umami.is/share/ISgW2qz8/flightphp.com), [Source Code](https://github.com/mikecao/umami) ⭐ 39,028 | 🐛 123 | 🌐 TypeScript | 📅 2026-09-26) `MIT` `Nodejs`
+* [Plausible Analytics](https://plausible.io/) - Lightweight and [open source](https://github.com/plausible-insights/plausible) ⭐ 29,224 | 🐛 64 | 🌐 Elixir | 📅 2026-09-25 web analytics. Doesn’t use cookies and doesn't track personal data. A privacy-friendly alternative to Google Analytics. ([Demo](https://plausible.io/plausible.io), [Source Code](https://github.com/plausible/analytics/) ⭐ 29,224 | 🐛 64 | 🌐 Elixir | 📅 2026-09-25) `AGPL-3.0` `Elixir`
+* [Fathom Lite](https://github.com/usefathom/fathom) ⭐ 8,021 | 🐛 6 | 🌐 Go | 📅 2026-03-18 - Fathom Lite, a lightweight version of Fathom Analytics `MIT` `Self-Hosted`
+* [GoatCounter](https://www.goatcounter.com/) - GoatCounter is an open source web analytics platform available as a hosted service (free for non-commercial use) or self-hosted app. ([Source](https://github.com/arp242/goatcounter) ⭐ 6,007 | 🐛 50 | 🌐 Go | 📅 2026-09-20, [Demo](https://stats.arp242.net/)) `MIT` `SaaS` `Self-Hosted`
 * [Ackee](https://ackee.electerious.com) - Self-hosted analytics tool for those who care about privacy. ([Demo](http://demo.ackee.electerious.com), [Source Code](https://github.com/electerious/Ackee) ⭐ 4,709 | 🐛 38 | 🌐 JavaScript | 📅 2026-09-19) `MIT` `Nodejs`
 * [Shynet](https://github.com/milesmcc/shynet) ⭐ 3,155 | 🐛 64 | 🌐 Python | 📅 2026-03-15 - Modern, privacy-friendly, and detailed web analytics that works without cookies or JS. Designed for self-hosting. `Apache-2.0` `Python`
-* [Swetrix](https://swetrix.com/) - European OSS product & web analytics, ([Source Code](https://github.com/swetrix/swetrix) ⭐ 1,202 | 🐛 15 | 🌐 TypeScript | 📅 2026-09-25) `MIT`/`AGPL-3.0` `NodeJS`
-* [Offen](https://www.offen.dev/) - Offen is a fair and open web analytics tool. Gain insights while your users have full access to their data. Lightweight, self hosted and free. ([Demo](https://www.offen.dev/try-demo/), [Source Code](https://github.com/offen/offen) ⭐ 981 | 🐛 19 | 🌐 JavaScript | 📅 2026-03-04) `Apache-2.0` `Go/Docker`
+* [Swetrix](https://swetrix.com/) - European OSS product & web analytics, ([Source Code](https://github.com/swetrix/swetrix) ⭐ 1,200 | 🐛 15 | 🌐 TypeScript | 📅 2026-09-26) `MIT`/`AGPL-3.0` `NodeJS`
+* [Offen](https://www.offen.dev/) - Offen is a fair and open web analytics tool. Gain insights while your users have full access to their data. Lightweight, self hosted and free. ([Demo](https://www.offen.dev/try-demo/), [Source Code](https://github.com/offen/offen) ⭐ 982 | 🐛 19 | 🌐 JavaScript | 📅 2026-03-04) `Apache-2.0` `Go/Docker`
 * [Koko Analytics](https://www.kokoanalytics.com/) - Privacy-friendly and open source analytics plugin for WordPress. ([Source Code](https://github.com/ibericode/koko-analytics/) ⭐ 399 | 🐛 8 | 🌐 PHP | 📅 2026-09-24) `GPL-3.0` `PHP`
 * [Freshlytics](https://github.com/sheshbabu/freshlytics) ⭐ 363 | 🐛 27 | 🌐 TypeScript | 📅 2026-02-13 - Privacy respecting, cookie free and low resource usage analytics platform. `MIT` `Docker/Nodejs`
 * [Kindmetrics](https://kindmetrics.io/) - Clean privacy-focused website analytics. ([Source Code](https://github.com/kindmetrics/kindmetrics) ⭐ 98 | 🐛 21 | 🌐 Crystal | 📅 2023-01-08) `MIT` `Crystal`
@@ -193,10 +193,10 @@ Often there is no clear differentiation between social media management and anal
 
 ## Analytics dashboards
 
-* [Superset](http://superset.apache.org/) - Modern, enterprise-ready business intelligence web application. ([Source Code](https://github.com/apache/incubator-superset) ⭐ 74,921 | 🐛 582 | 🌐 Python | 📅 2026-09-25) `Apache-2.0` `Python`
-* [Metabase](https://metabase.com/) - Metabase is the easy, open source way for everyone in your company to ask questions and learn from data. Simple Dashboarding and GUI Query tool, Nightly Emails and Slack Integration w/ PostgreSQL, MySQL, Redshift and other DBs. ([Source Code](https://github.com/metabase/metabase) ⭐ 49,421 | 🐛 4,492 | 🌐 Clojure | 📅 2026-09-25) `AGPL-3.0` `Java`
-* [Redash](http://redash.io) - connect to over 18 types of databases (SQL and "NoSQL"), query your data, visualize it and create dashboards. Everything has a URL that can be shared. Slack and HipChat integration. ([Demo](https://demo.redash.io), [Source Code](https://github.com/getredash/redash) ⭐ 28,810 | 🐛 812 | 🌐 Python | 📅 2026-09-24) `BSD-2-Clause` `Python`
-* [Freeboard](https://github.com/Freeboard/freeboard) ⭐ 6,507 | 🐛 166 | 🌐 JavaScript | 📅 2023-09-23 - open source real-time dashboard builder for IOT and other web mashups. `©` `SaaS`
+* [Superset](http://superset.apache.org/) - Modern, enterprise-ready business intelligence web application. ([Source Code](https://github.com/apache/incubator-superset) ⭐ 74,934 | 🐛 620 | 🌐 Python | 📅 2026-09-26) `Apache-2.0` `Python`
+* [Metabase](https://metabase.com/) - Metabase is the easy, open source way for everyone in your company to ask questions and learn from data. Simple Dashboarding and GUI Query tool, Nightly Emails and Slack Integration w/ PostgreSQL, MySQL, Redshift and other DBs. ([Source Code](https://github.com/metabase/metabase) ⭐ 49,430 | 🐛 4,497 | 🌐 Clojure | 📅 2026-09-26) `AGPL-3.0` `Java`
+* [Redash](http://redash.io) - connect to over 18 types of databases (SQL and "NoSQL"), query your data, visualize it and create dashboards. Everything has a URL that can be shared. Slack and HipChat integration. ([Demo](https://demo.redash.io), [Source Code](https://github.com/getredash/redash) ⭐ 28,813 | 🐛 812 | 🌐 Python | 📅 2026-09-26) `BSD-2-Clause` `Python`
+* [Freeboard](https://github.com/Freeboard/freeboard) ⭐ 6,506 | 🐛 166 | 🌐 JavaScript | 📅 2023-09-23 - open source real-time dashboard builder for IOT and other web mashups. `©` `SaaS`
 * [Chartbrew](https://chartbrew.com) - Chartbrew allows you to query your databases and APIs to create live charts and visualize your data. Featuring automatic chart updates, sharing, embedding, printing, exporting, and team support with granular permissions. ([Demo](https://app.chartbrew.com/live-demo), [Source Code](https://github.com/chartbrew/chartbrew) ⭐ 4,063 | 🐛 2 | 🌐 JavaScript | 📅 2026-09-24) `MIT` `NodeJS` `SaaS` `Self-Hosted`
 * [Socioboard](https://socioboard.org/) - `⚠` Social media management, analytics, and reporting platform supporting nine social media networks out-of-the-box. ([Source Code](https://github.com/socioboard/Socioboard-4.0) ⭐ 1,513 | 🐛 37 | 🌐 JavaScript | 📅 2026-09-10) `GPL-3.0` `C#/JavaScript`
 * [EDA](https://eda.jortilles.com/en/jortilles-english/) - EDA is an user friendly Analtical Tool specially designed for busines users.  ([Source Code](https://github.com/jortilles/EDA) ⭐ 207 | 🐛 9 | 🌐 TypeScript | 📅 2026-09-24) `Apache-2.0` `Angular/Nodejs`
@@ -207,12 +207,12 @@ Often there is no clear differentiation between social media management and anal
 
 # Other Awesome Lists
 
-* Even more lists [awesome](https://github.com/sindresorhus/awesome) ⭐ 510,370 | 🐛 107 | 📅 2026-09-02.
+* Even more lists [awesome](https://github.com/sindresorhus/awesome) ⭐ 510,885 | 🐛 107 | 📅 2026-09-02.
 * Other awesome lists [awesome-awesomeness](https://github.com/bayandin/awesome-awesomeness) ⭐ 33,688 | 🐛 65 | 🌐 Ruby | 📅 2024-06-02.
-* Analytics [awesome-bigdata](https://github.com/onurakpolat/awesome-bigdata) ⭐ 14,651 | 🐛 6 | 📅 2026-07-31.
-* Another list? [list](https://github.com/jnv/lists) ⭐ 11,506 | 🐛 30 | 📅 2026-03-23.
+* Analytics [awesome-bigdata](https://github.com/onurakpolat/awesome-bigdata) ⭐ 14,650 | 🐛 6 | 📅 2026-07-31.
+* Another list? [list](https://github.com/jnv/lists) ⭐ 11,509 | 🐛 30 | 📅 2026-03-23.
 * WTF! [awesome-awesome-awesome](https://github.com/t3chnoboy/awesome-awesome-awesome) ⭐ 2,264 | 🐛 5 | 📅 2023-11-13.
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-25._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-26._
