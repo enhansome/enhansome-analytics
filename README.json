@@ -15,11 +15,11 @@
             "id": 235901813,
             "language": "Python",
             "license": "NOASSERTION",
-            "last_commit": "2026-10-02T19:55:39Z",
-            "open_issues": 5675,
+            "last_commit": "2026-10-03T04:15:33Z",
+            "open_issues": 5690,
             "owner": "PostHog",
             "repo": "posthog",
-            "stars": 40106,
+            "stars": 40114,
             "topics": [
               "ab-testing",
               "ai-analytics",
@@ -52,8 +52,8 @@
             "id": 6358188,
             "language": "Java",
             "license": "Apache-2.0",
-            "last_commit": "2026-10-02T17:52:37Z",
-            "open_issues": 770,
+            "last_commit": "2026-10-03T03:18:04Z",
+            "open_issues": 772,
             "owner": "apache",
             "repo": "druid",
             "stars": 14058,
@@ -75,11 +75,11 @@
             "id": 365373172,
             "language": "TypeScript",
             "license": "NOASSERTION",
-            "last_commit": "2026-10-02T19:49:27Z",
-            "open_issues": 818,
+            "last_commit": "2026-10-03T04:30:29Z",
+            "open_issues": 824,
             "owner": "growthbook",
             "repo": "growthbook",
-            "stars": 8465,
+            "stars": 8467,
             "topics": [
               "ab-testing",
               "abtest",
@@ -117,7 +117,7 @@
             "id": 1066509034,
             "language": "TypeScript",
             "license": "Apache-2.0",
-            "last_commit": "2026-10-01T19:29:49Z",
+            "last_commit": "2026-10-03T00:45:32Z",
             "open_issues": 38,
             "owner": "deepnote",
             "repo": "deepnote",
@@ -154,7 +154,7 @@
             "id": 3891123,
             "language": "PHP",
             "license": "GPL-2.0",
-            "last_commit": "2026-10-02T19:48:09Z",
+            "last_commit": "2026-10-03T04:18:34Z",
             "open_issues": 115,
             "owner": "Open-Web-Analytics",
             "repo": "Open-Web-Analytics",
@@ -289,11 +289,11 @@
             "id": 280363952,
             "language": "TypeScript",
             "license": "MIT",
-            "last_commit": "2026-10-02T05:18:36Z",
+            "last_commit": "2026-10-03T03:38:47Z",
             "open_issues": 131,
             "owner": "umami-software",
             "repo": "umami",
-            "stars": 39127,
+            "stars": 39133,
             "topics": [
               "analytics",
               "audience-segmentation",
@@ -405,11 +405,11 @@
             "id": 280363952,
             "language": "TypeScript",
             "license": "MIT",
-            "last_commit": "2026-10-02T05:18:36Z",
+            "last_commit": "2026-10-03T03:38:47Z",
             "open_issues": 131,
             "owner": "umami-software",
             "repo": "umami",
-            "stars": 39127,
+            "stars": 39133,
             "topics": [
               "analytics",
               "audience-segmentation",
@@ -440,7 +440,7 @@
             "open_issues": 71,
             "owner": "plausible",
             "repo": "analytics",
-            "stars": 29281,
+            "stars": 29284,
             "topics": [
               "analytics",
               "analytics-dashboard",
@@ -563,7 +563,7 @@
             "open_issues": 64,
             "owner": "milesmcc",
             "repo": "shynet",
-            "stars": 3158,
+            "stars": 3157,
             "topics": [
               "a17t",
               "analytics",
@@ -786,11 +786,11 @@
             "id": 39464018,
             "language": "Python",
             "license": "Apache-2.0",
-            "last_commit": "2026-10-02T18:41:30Z",
-            "open_issues": 522,
+            "last_commit": "2026-10-03T03:00:35Z",
+            "open_issues": 536,
             "owner": "apache",
             "repo": "superset",
-            "stars": 75012,
+            "stars": 75015,
             "topics": [
               "analytics",
               "apache",
@@ -826,11 +826,11 @@
             "id": 30203935,
             "language": "Clojure",
             "license": "NOASSERTION",
-            "last_commit": "2026-10-02T19:53:10Z",
-            "open_issues": 4568,
+            "last_commit": "2026-10-03T04:17:13Z",
+            "open_issues": 4561,
             "owner": "metabase",
             "repo": "metabase",
-            "stars": 49514,
+            "stars": 49517,
             "topics": [
               "analytics",
               "bi",
@@ -870,7 +870,7 @@
             "open_issues": 812,
             "owner": "getredash",
             "repo": "redash",
-            "stars": 28829,
+            "stars": 28830,
             "topics": [
               "analytics",
               "athena",
@@ -972,7 +972,7 @@
             "open_issues": 37,
             "owner": "Socioboard-developers",
             "repo": "Socioboard-5.0",
-            "stars": 1513,
+            "stars": 1514,
             "topics": [
               "linkedin",
               "social-media",
@@ -1018,7 +1018,7 @@
         {
           "node_type": "item",
           "title": "Even more lists awesome",
-          "description": ".",
+          "description": "sindresorhus/awesome",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -1031,7 +1031,7 @@
             "open_issues": 106,
             "owner": "sindresorhus",
             "repo": "awesome",
-            "stars": 513674,
+            "stars": 513795,
             "topics": [
               "awesome",
               "awesome-list",
@@ -1045,7 +1045,7 @@
         {
           "node_type": "item",
           "title": "Other awesome lists awesome-awesomeness",
-          "description": ".",
+          "description": "bayandin/awesome-awesomeness",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -1066,7 +1066,7 @@
         {
           "node_type": "item",
           "title": "Analytics awesome-bigdata",
-          "description": ".",
+          "description": "oxnr/awesome-bigdata",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -1079,7 +1079,7 @@
             "open_issues": 6,
             "owner": "oxnr",
             "repo": "awesome-bigdata",
-            "stars": 14657,
+            "stars": 14658,
             "topics": [
               "awesome",
               "awesome-list",
@@ -1103,7 +1103,7 @@
         {
           "node_type": "item",
           "title": "Another list? list",
-          "description": ".",
+          "description": "jnv/lists",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -1116,7 +1116,7 @@
             "open_issues": 32,
             "owner": "jnv",
             "repo": "lists",
-            "stars": 11517,
+            "stars": 11520,
             "topics": [
               "awesome",
               "awesome-list",
@@ -1130,7 +1130,7 @@
         {
           "node_type": "item",
           "title": "WTF! awesome-awesome-awesome",
-          "description": ".",
+          "description": "t3chnoboy/awesome-awesome-awesome",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -1143,7 +1143,7 @@
             "open_issues": 5,
             "owner": "t3chnoboy",
             "repo": "awesome-awesome-awesome",
-            "stars": 2266,
+            "stars": 2267,
             "topics": [
               "awesome",
               "awesome-list"
@@ -1156,7 +1156,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-02T19:55:43.402Z",
+    "last_updated": "2026-10-03T04:34:26.142Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of analytics frameworks, software and other tools.",
