@@ -15,11 +15,11 @@
             "id": 235901813,
             "language": "Python",
             "license": "NOASSERTION",
-            "last_commit": "2026-10-20T19:10:47Z",
-            "open_issues": 5597,
+            "last_commit": "2026-10-21T19:15:36Z",
+            "open_issues": 5472,
             "owner": "PostHog",
             "repo": "posthog",
-            "stars": 40361,
+            "stars": 40377,
             "topics": [
               "ab-testing",
               "ai-analytics",
@@ -42,6 +42,33 @@
         },
         {
           "node_type": "item",
+          "title": "rrweb",
+          "description": "Open-source session replay library for the browser. Records the DOM and user interactions and replays them pixel-perfect. (Source Code)",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "description": "record and replay the web",
+            "homepage": "https://www.rrweb.io/",
+            "id": 151843254,
+            "language": "TypeScript",
+            "license": "MIT",
+            "last_commit": "2026-10-21T13:46:25Z",
+            "open_issues": 431,
+            "owner": "rrweb-io",
+            "repo": "rrweb",
+            "stars": 20293,
+            "topics": [
+              "fullstory",
+              "hotjar",
+              "logrocket",
+              "recorder",
+              "session-replay"
+            ]
+          },
+          "first_seen": "2026-10-21T19:16:24.596Z"
+        },
+        {
+          "node_type": "item",
           "title": "Druid",
           "description": "Distributed, column-oriented, real-time analytics data store. (Source Code)",
           "children": [],
@@ -52,11 +79,11 @@
             "id": 6358188,
             "language": "Java",
             "license": "Apache-2.0",
-            "last_commit": "2026-10-20T15:32:35Z",
-            "open_issues": 778,
+            "last_commit": "2026-10-21T16:11:20Z",
+            "open_issues": 779,
             "owner": "apache",
             "repo": "druid",
-            "stars": 14089,
+            "stars": 14092,
             "topics": [
               "druid"
             ]
@@ -75,11 +102,11 @@
             "id": 365373172,
             "language": "TypeScript",
             "license": "NOASSERTION",
-            "last_commit": "2026-10-20T18:55:42Z",
-            "open_issues": 843,
+            "last_commit": "2026-10-21T19:09:56Z",
+            "open_issues": 855,
             "owner": "growthbook",
             "repo": "growthbook",
-            "stars": 8519,
+            "stars": 8521,
             "topics": [
               "ab-testing",
               "abtest",
@@ -117,11 +144,11 @@
             "id": 1066509034,
             "language": "TypeScript",
             "license": "Apache-2.0",
-            "last_commit": "2026-10-20T13:38:49Z",
-            "open_issues": 38,
+            "last_commit": "2026-10-21T18:36:18Z",
+            "open_issues": 40,
             "owner": "deepnote",
             "repo": "deepnote",
-            "stars": 3023,
+            "stars": 3025,
             "topics": [
               "artificial-intelligence",
               "data",
@@ -154,11 +181,11 @@
             "id": 3891123,
             "language": "PHP",
             "license": "GPL-2.0",
-            "last_commit": "2026-10-20T18:30:50Z",
+            "last_commit": "2026-10-20T20:37:16Z",
             "open_issues": 114,
             "owner": "Open-Web-Analytics",
             "repo": "Open-Web-Analytics",
-            "stars": 2694,
+            "stars": 2693,
             "topics": [
               "owa",
               "php",
@@ -225,7 +252,7 @@
         },
         {
           "node_type": "item",
-          "title": "EDA",
+          "title": "Edalitics",
           "description": "Open source analytics/BI tool. (Source Code)",
           "children": [],
           "repo_info": {
@@ -239,7 +266,7 @@
             "open_issues": 9,
             "owner": "jortilles",
             "repo": "EDA",
-            "stars": 210,
+            "stars": 211,
             "topics": [
               "analytics",
               "business-analytics",
@@ -249,6 +276,117 @@
             ]
           },
           "first_seen": "2026-08-29T00:00:15.723Z"
+        },
+        {
+          "node_type": "item",
+          "title": "OneQuery",
+          "description": "Self-hosted gateway for safe, auditable queries for agents across approved data sources.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "description": "One interface for your whole data stack, with built-in safeguards and a simpler workflow for your team. Written in Rust. Docker not needed.",
+            "homepage": "https://onequery.dev",
+            "id": 1195711958,
+            "language": "TypeScript",
+            "license": "Apache-2.0",
+            "last_commit": "2026-07-30T09:22:23Z",
+            "open_issues": 5,
+            "owner": "wordbricks",
+            "repo": "onequery",
+            "stars": 17,
+            "topics": [
+              "agent",
+              "ai",
+              "ai-agents",
+              "anthropic",
+              "chatgpt",
+              "claude",
+              "claude-code",
+              "cli",
+              "codex",
+              "hermes",
+              "llm",
+              "openai",
+              "openclaw",
+              "rust",
+              "self-hosted"
+            ]
+          },
+          "first_seen": "2026-10-21T19:16:24.596Z"
+        },
+        {
+          "node_type": "item",
+          "title": "stratif.io",
+          "description": "Open-source, self-hosted, warehouse-native product analytics. Runs funnels, retention, and path analysis directly on DuckDB, Postgres, Snowflake, or ClickHouse — no ingestion, no SDK. (Source Code)",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "description": "Open-source warehouse-native product analytics for DuckDB, Snowflake, ClickHouse, Databricks, and Postgres. Funnels, retention, paths — directly on your warehouse, no ingestion pipeline, no per-event fees.",
+            "homepage": "https://stratif.io",
+            "id": 1185275103,
+            "language": "TypeScript",
+            "license": "Apache-2.0",
+            "last_commit": "2026-04-30T20:05:29Z",
+            "open_issues": 0,
+            "owner": "stratif-io",
+            "repo": "stratif.io",
+            "stars": 10,
+            "topics": [
+              "analytics",
+              "business-intelligence",
+              "clickhouse",
+              "cohort-analysis",
+              "data-visualization",
+              "databricks",
+              "docker",
+              "duckdb",
+              "funnel-analysis",
+              "open-source",
+              "postgresql",
+              "product-analytics",
+              "retention-analysis",
+              "self-hosted",
+              "snowflake",
+              "sql-analytics",
+              "sql-editor",
+              "warehouse-analytics",
+              "warehouse-native",
+              "web-analytics"
+            ]
+          },
+          "first_seen": "2026-10-21T19:16:24.596Z"
+        },
+        {
+          "node_type": "item",
+          "title": "DataSpoc Lens",
+          "description": "Virtual warehouse over cloud Parquet (S3/GCS/Azure). SQL shell, Jupyter/Marimo notebooks, AI natural language queries, and local cache. (Source Code)",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "description": "Virtual warehouse — SQL + Jupyter + AI over cloud Parquet via DuckDB",
+            "homepage": "https://pypi.org/project/dataspoc-lens/",
+            "id": 1190981585,
+            "language": "Python",
+            "license": "Apache-2.0",
+            "last_commit": "2026-04-28T00:27:58Z",
+            "open_issues": 0,
+            "owner": "dataspoclab",
+            "repo": "dataspoc-lens",
+            "stars": 3,
+            "topics": [
+              "cli",
+              "data",
+              "data-engineering",
+              "data-lake",
+              "duckdb",
+              "etl",
+              "parquet",
+              "python",
+              "singer",
+              "sql"
+            ]
+          },
+          "first_seen": "2026-10-21T19:16:24.596Z"
         },
         {
           "node_type": "item",
@@ -270,6 +408,38 @@
             "topics": []
           },
           "first_seen": "2026-08-29T00:00:15.723Z"
+        },
+        {
+          "node_type": "item",
+          "title": "Replayowl",
+          "description": "Open source, self-hosted session replay that runs on Cloudflare Workers or Node. (Source Code)",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "description": "Self-hosted session recording and replay for websites. ~20 KB zero-dependency recorder, pixel-faithful smooth replay, runs on Cloudflare Workers or Node with S3/R2 storage and D1/Postgres search.",
+            "homepage": "https://replayowl.com/",
+            "id": 1418273944,
+            "language": "TypeScript",
+            "license": "AGPL-3.0",
+            "last_commit": "2026-10-21T03:45:18Z",
+            "open_issues": 0,
+            "owner": "replayowl",
+            "repo": "replayowl",
+            "stars": 1,
+            "topics": [
+              "cloudflare-workers",
+              "dom-recording",
+              "hotjar-alternative",
+              "product-analytics",
+              "rrweb-alternative",
+              "self-hosted",
+              "session-recording",
+              "session-replay",
+              "user-behavior",
+              "web-analytics"
+            ]
+          },
+          "first_seen": "2026-10-21T19:16:24.596Z"
         }
       ],
       "title": "General analytics"
@@ -289,11 +459,11 @@
             "id": 280363952,
             "language": "TypeScript",
             "license": "MIT",
-            "last_commit": "2026-10-20T15:39:02Z",
-            "open_issues": 120,
+            "last_commit": "2026-10-20T23:27:19Z",
+            "open_issues": 124,
             "owner": "umami-software",
             "repo": "umami",
-            "stars": 39488,
+            "stars": 39510,
             "topics": [
               "analytics",
               "audience-segmentation",
@@ -326,7 +496,7 @@
             "id": 197743848,
             "language": "Go",
             "license": "NOASSERTION",
-            "last_commit": "2026-10-20T17:14:59Z",
+            "last_commit": "2026-10-21T14:48:16Z",
             "open_issues": 50,
             "owner": "rudderlabs",
             "repo": "rudder-server",
@@ -355,6 +525,27 @@
             ]
           },
           "first_seen": "2026-08-29T00:00:15.723Z"
+        },
+        {
+          "node_type": "item",
+          "title": "Rawbbit",
+          "description": "Self-hosted analytics pipeline that lands raw events as Parquet in your own object storage. Designed for teams that want to own their raw event data instead of feeding it into a SaaS vendor's pipeline. Alternative to Firebase Analytics and Amplitude. (Source Code)",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "description": null,
+            "homepage": "https://rawbbit.one/?utm_source=github&utm_medium=referral&utm_campaign=owned_profiles&utm_content=repo_about",
+            "id": 1229145922,
+            "language": "JavaScript",
+            "license": "Apache-2.0",
+            "last_commit": "2026-10-19T17:55:50Z",
+            "open_issues": 0,
+            "owner": "mirlan-irokez",
+            "repo": "rawbbit",
+            "stars": 10,
+            "topics": []
+          },
+          "first_seen": "2026-10-21T19:16:24.596Z"
         }
       ],
       "title": "Endpoints"
@@ -362,6 +553,38 @@
     {
       "description": null,
       "items": [
+        {
+          "node_type": "item",
+          "title": "NotFair",
+          "description": "Open-source Claude Code agent skills for SEO, Google Ads, and Meta Ads, connecting to live data via Google Ads MCP, Meta Ads MCP, Google Search Console MCP, and Google Analytics (GA4) MCP. Covers site audits, keyword research, meta tags, schema markup, GEO optimization, wasted-spend detection, and creative analysis. (Source Code)",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "description": "Open-source SEO, GEO, and marketing skills for AI agents.",
+            "homepage": "https://notfair.co/",
+            "id": 1193374549,
+            "language": "Python",
+            "license": "MIT",
+            "last_commit": "2026-10-19T19:15:12Z",
+            "open_issues": 5,
+            "owner": "nowork-studio",
+            "repo": "notfair-plugin",
+            "stars": 4000,
+            "topics": [
+              "agents",
+              "claude-code-plugin",
+              "claude-skills",
+              "gemini-cli-extension",
+              "geo",
+              "googleads",
+              "googleadsmcp",
+              "mcp",
+              "metaads",
+              "seo"
+            ]
+          },
+          "first_seen": "2026-10-21T19:16:24.596Z"
+        },
         {
           "node_type": "item",
           "title": "Serposcope",
@@ -405,11 +628,11 @@
             "id": 280363952,
             "language": "TypeScript",
             "license": "MIT",
-            "last_commit": "2026-10-20T15:39:02Z",
-            "open_issues": 120,
+            "last_commit": "2026-10-20T23:27:19Z",
+            "open_issues": 124,
             "owner": "umami-software",
             "repo": "umami",
-            "stars": 39488,
+            "stars": 39510,
             "topics": [
               "analytics",
               "audience-segmentation",
@@ -436,11 +659,11 @@
             "id": 160427405,
             "language": "Elixir",
             "license": "AGPL-3.0",
-            "last_commit": "2026-10-20T12:18:39Z",
-            "open_issues": 53,
+            "last_commit": "2026-10-21T19:00:30Z",
+            "open_issues": 54,
             "owner": "plausible",
             "repo": "analytics",
-            "stars": 29574,
+            "stars": 29591,
             "topics": [
               "analytics",
               "analytics-dashboard",
@@ -512,7 +735,7 @@
             "open_issues": 50,
             "owner": "arp242",
             "repo": "goatcounter",
-            "stars": 6076,
+            "stars": 6079,
             "topics": [
               "analytics",
               "go",
@@ -593,11 +816,11 @@
             "id": 349227174,
             "language": "TypeScript",
             "license": "AGPL-3.0",
-            "last_commit": "2026-10-20T18:16:29Z",
+            "last_commit": "2026-10-20T20:28:27Z",
             "open_issues": 20,
             "owner": "Swetrix",
             "repo": "swetrix",
-            "stars": 1209,
+            "stars": 1211,
             "topics": [
               "charts",
               "clickhouse",
@@ -660,7 +883,7 @@
             "id": 217326252,
             "language": "PHP",
             "license": "GPL-3.0",
-            "last_commit": "2026-10-20T13:34:40Z",
+            "last_commit": "2026-10-21T12:26:35Z",
             "open_issues": 8,
             "owner": "ibericode",
             "repo": "koko-analytics",
@@ -767,9 +990,334 @@
             ]
           },
           "first_seen": "2026-08-29T00:00:15.723Z"
+        },
+        {
+          "node_type": "item",
+          "title": "Respectlytics",
+          "description": "Privacy-first, session-based mobile app analytics with strict 5-field storage and no persistent user tracking. (Source Code)",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "description": "Privacy-first mobile analytics. Self-hosted, session-based, 5-field storage. No personal data retained.",
+            "homepage": null,
+            "id": 1158161941,
+            "language": "Python",
+            "license": "AGPL-3.0",
+            "last_commit": "2026-10-14T00:21:40Z",
+            "open_issues": 1,
+            "owner": "respectlytics",
+            "repo": "respectlytics",
+            "stars": 41,
+            "topics": []
+          },
+          "first_seen": "2026-10-21T19:16:24.596Z"
+        },
+        {
+          "node_type": "item",
+          "title": "Facet",
+          "description": "Cookieless, privacy-first web analytics & experimentation that runs entirely on the Cloudflare edge (Workers + D1). No cookies, no cross-session identity, raw IP is never stored; GPC/DNT respecting and self-hosted with a one-command deploy.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "description": "Privacy-first, cookieless web analytics & experimentation on Cloudflare Workers + D1. Self-hosted, one-command deploy: page views, sessions, funnels, goals, channels, A/B experiments, anomaly detection & ain-English queries. Runs on Cloudflare's free tier. No cross-session identity, raw IP never stored. Umami-compatible.",
+            "homepage": "https://writerslogic.com/facet",
+            "id": 1304416656,
+            "language": "TypeScript",
+            "license": "AGPL-3.0",
+            "last_commit": "2026-10-21T08:43:11Z",
+            "open_issues": 18,
+            "owner": "writerslogic",
+            "repo": "facet",
+            "stars": 2,
+            "topics": [
+              "ab-testing",
+              "analytics",
+              "cloudflare",
+              "cloudflare-d1",
+              "cloudflare-workers",
+              "cookieless-analytics",
+              "edge",
+              "feature-flags",
+              "funnels",
+              "gdpr",
+              "plausible-alternative",
+              "privacy-first",
+              "product-analytics",
+              "self-hosted",
+              "serverless",
+              "web-analytics"
+            ]
+          },
+          "first_seen": "2026-10-21T19:16:24.596Z"
+        },
+        {
+          "node_type": "item",
+          "title": "Ucoder Insight",
+          "description": "Privacy-first, cookie-free web analytics SDK for developers. 7.4kb gzipped, zero dependencies, offline support via IndexDB. (Source Code)",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "description": null,
+            "homepage": "https://insights.ucoder.in",
+            "id": 1152876187,
+            "language": "TypeScript",
+            "license": "MIT",
+            "last_commit": "2026-07-28T09:42:52Z",
+            "open_issues": 0,
+            "owner": "soumydip",
+            "repo": "ucoder_insight_core",
+            "stars": 2,
+            "topics": []
+          },
+          "first_seen": "2026-10-21T19:16:24.596Z"
+        },
+        {
+          "node_type": "item",
+          "title": "Stomatopod",
+          "description": "Privacy-friendly, cookieless self-hosted web analytics. Single binary, embedded storage, no external DB. (Source Code)",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "description": "Privacy-friendly, cookieless self-hosted web analytics. One binary, embedded storage, no external DB. Docker Compose, dashboard, API + CLI. MIT.",
+            "homepage": "https://stoma.top",
+            "id": 1241953018,
+            "language": "Rust",
+            "license": "MIT",
+            "last_commit": "2026-10-20T04:06:23Z",
+            "open_issues": 5,
+            "owner": "kkir",
+            "repo": "stomatopod",
+            "stars": 1,
+            "topics": [
+              "analytics",
+              "cookieless",
+              "docker",
+              "open-source",
+              "privacy",
+              "privacy-friendly",
+              "rust",
+              "self-hosted",
+              "single-binary",
+              "web-analytics"
+            ]
+          },
+          "first_seen": "2026-10-21T19:16:24.596Z"
+        },
+        {
+          "node_type": "item",
+          "title": "measuremy.site",
+          "description": "Cookieless web analytics your AI agent can read: an MCP server lets Claude Code, Cursor and other agents install the script and answer traffic questions. (Source Code for the self-hosted version)",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "description": "Self-hosted measuremy.site: cookieless web analytics your AI agent can read, over MCP. One site, runs on your Cloudflare account (Workers + D1).",
+            "homepage": "https://measuremy.site/?utm_source=github&utm_medium=referral&utm_campaign=agentlytics-mcp",
+            "id": 1407581586,
+            "language": "TypeScript",
+            "license": "MIT",
+            "last_commit": "2026-10-15T11:25:10Z",
+            "open_issues": 0,
+            "owner": "developeron29",
+            "repo": "measuremysite-mcp",
+            "stars": 1,
+            "topics": [
+              "ai-agents",
+              "analytics",
+              "claude-code",
+              "cloudflare-d1",
+              "cloudflare-workers",
+              "cookieless",
+              "mcp",
+              "mcp-server",
+              "privacy",
+              "web-analytics"
+            ]
+          },
+          "first_seen": "2026-10-21T19:16:24.596Z"
+        },
+        {
+          "node_type": "item",
+          "title": "Lupa",
+          "description": "Cookie-free web analytics in a single Go binary with ClickHouse. No stored IPs, daily-rotating visitor hash, goals, funnels, realtime, click heatmaps and session replay with masked inputs. (Demo, Source Code)",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "description": "Веб-аналитика на своём сервере без cookie: визиты, цели, воронки, карта кликов, вебвизор. Go + ClickHouse, один docker-compose.",
+            "homepage": "https://getlupa.ru",
+            "id": 1418013983,
+            "language": "Go",
+            "license": "AGPL-3.0",
+            "last_commit": "2026-10-14T19:57:06Z",
+            "open_issues": 0,
+            "owner": "cutover-team",
+            "repo": "lupa",
+            "stars": 0,
+            "topics": [
+              "analytics",
+              "clickhouse",
+              "cookieless",
+              "golang",
+              "heatmap",
+              "matomo-alternative",
+              "plausible-alternative",
+              "privacy",
+              "self-hosted",
+              "session-replay",
+              "web-analytics",
+              "yandex-metrika-alternative"
+            ]
+          },
+          "first_seen": "2026-10-21T19:16:24.596Z"
+        },
+        {
+          "node_type": "item",
+          "title": "DevDome Analytics",
+          "description": "Cookieless analytics for WordPress that separates human visitors from bots and AI crawlers. Free plan. (Plugin Source Code)",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "description": "Free cookieless WordPress analytics plugin: real-time visitor stats with humans, bots and AI crawlers counted separately, outbound click tracking, public Stats API and MCP server. Free alternative to Plausible, Fathom, Matomo, MonsterInsights and Google Analytics.",
+            "homepage": "https://wordpress.org/plugins/devdome-analytics/",
+            "id": 1363090380,
+            "language": "PHP",
+            "license": null,
+            "last_commit": "2026-10-16T13:01:29Z",
+            "open_issues": 0,
+            "owner": "DevDomeFamily",
+            "repo": "devdome-analytics",
+            "stars": 0,
+            "topics": [
+              "ai-crawlers",
+              "bot-detection",
+              "cookieless",
+              "gdpr",
+              "google-analytics-alternative",
+              "mcp-server",
+              "php",
+              "plausible-alternative",
+              "privacy-analytics",
+              "web-analytics",
+              "wordpress",
+              "wordpress-plugin"
+            ]
+          },
+          "first_seen": "2026-10-21T19:16:24.596Z"
+        },
+        {
+          "node_type": "item",
+          "title": "Beam",
+          "description": "Lightweight, cookie-free web analytics on Cloudflare Workers and D1. No cookies, no fingerprinting, GDPR-compliant by design. Free tier included. (Source Code)",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "description": "Privacy-first, cookie-free web analytics script for Beam (GDPR-friendly, lightweight <2KB, no cookies)",
+            "homepage": "https://beam-privacy.com",
+            "id": 1200431079,
+            "language": "JavaScript",
+            "license": "MIT",
+            "last_commit": "2026-04-05T21:34:13Z",
+            "open_issues": 0,
+            "owner": "scobb",
+            "repo": "beam.js",
+            "stars": 0,
+            "topics": [
+              "analytics",
+              "cloudflare-workers",
+              "cookie-free",
+              "gdpr",
+              "javascript",
+              "privacy",
+              "privacy-first",
+              "web-analytics"
+            ]
+          },
+          "first_seen": "2026-10-21T19:16:24.596Z"
         }
       ],
       "title": "Privacy focused analytics"
+    },
+    {
+      "description": null,
+      "items": [
+        {
+          "node_type": "item",
+          "title": "ClickTrail",
+          "description": "Deterministic first-party attribution engine for UTMs, ad click IDs, referrers, and first/last touch. (Source Code)",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "description": "Consent-aware attribution SDKs and framework integrations for preserving click IDs, leads, sales, and conversion events.",
+            "homepage": null,
+            "id": 1345191319,
+            "language": "TypeScript",
+            "license": "MIT",
+            "last_commit": "2026-10-13T12:17:44Z",
+            "open_issues": 15,
+            "owner": "vizuh",
+            "repo": "clicktrail-js",
+            "stars": 3,
+            "topics": [
+              "analytics",
+              "attribution",
+              "browser-sdk",
+              "click-id",
+              "consent-management",
+              "conversion-tracking",
+              "cross-domain-tracking",
+              "first-party-data",
+              "gclid",
+              "offline-conversions",
+              "privacy",
+              "typescript",
+              "utm-tracking"
+            ]
+          },
+          "first_seen": "2026-10-21T19:16:24.596Z"
+        },
+        {
+          "node_type": "item",
+          "title": "Virling",
+          "description": "open-source revenue attribution that ties each visit to the Stripe, Dodo Payments or Polar payment that followed.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "description": "Open-source revenue attribution: see which traffic channel brings paying customers. Stripe, Dodo Payments and Polar. One Rust binary.",
+            "homepage": "https://virling.com",
+            "id": 1417121998,
+            "language": "Rust",
+            "license": "AGPL-3.0",
+            "last_commit": "2026-10-21T19:12:56Z",
+            "open_issues": 40,
+            "owner": "virling",
+            "repo": "virling",
+            "stars": 1,
+            "topics": [
+              "agpl",
+              "analytics",
+              "attribution",
+              "cookieless",
+              "dodo-payments",
+              "duckdb",
+              "indie-hacker",
+              "lemonsqueezy",
+              "marketing-attribution",
+              "mcp-server",
+              "open-source",
+              "polar",
+              "privacy",
+              "revenue-analytics",
+              "revenue-attribution",
+              "rust",
+              "saas",
+              "self-hosted",
+              "stripe",
+              "web-analytics"
+            ]
+          },
+          "first_seen": "2026-10-21T19:16:24.596Z"
+        }
+      ],
+      "title": "Attribution tracking"
     },
     {
       "description": null,
@@ -786,11 +1334,11 @@
             "id": 39464018,
             "language": "Python",
             "license": "Apache-2.0",
-            "last_commit": "2026-10-20T18:59:03Z",
-            "open_issues": 618,
+            "last_commit": "2026-10-21T19:09:09Z",
+            "open_issues": 610,
             "owner": "apache",
             "repo": "superset",
-            "stars": 75230,
+            "stars": 75244,
             "topics": [
               "analytics",
               "apache",
@@ -826,11 +1374,11 @@
             "id": 30203935,
             "language": "Clojure",
             "license": "NOASSERTION",
-            "last_commit": "2026-10-20T19:09:30Z",
-            "open_issues": 4564,
+            "last_commit": "2026-10-21T19:16:22Z",
+            "open_issues": 4575,
             "owner": "metabase",
             "repo": "metabase",
-            "stars": 49767,
+            "stars": 49786,
             "topics": [
               "analytics",
               "bi",
@@ -870,7 +1418,7 @@
             "open_issues": 818,
             "owner": "getredash",
             "repo": "redash",
-            "stars": 28840,
+            "stars": 28842,
             "topics": [
               "analytics",
               "athena",
@@ -984,8 +1532,34 @@
         },
         {
           "node_type": "item",
-          "title": "EDA",
-          "description": "EDA is an user friendly Analtical Tool specially designed for busines users. (Source Code)",
+          "title": "DAC",
+          "description": "dashboard-as-code tool that defines dashboards in YAML and TSX, with a built-in semantic layer for metrics and dimensions. (Source Code)",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "description": "DaC is a dashboard-as-code tool. Build interactive dashboards using YAML and JSX. Built-in semantic layer. Get your agents to build standardized, reviewable dashboards.",
+            "homepage": "https://getbruin.com/docs/dac/",
+            "id": 1183363889,
+            "language": "Go",
+            "license": "AGPL-3.0",
+            "last_commit": "2026-10-16T14:15:57Z",
+            "open_issues": 10,
+            "owner": "bruin-data",
+            "repo": "dac",
+            "stars": 795,
+            "topics": [
+              "ai-agents",
+              "business-intelligence",
+              "dashboard",
+              "semantic-layer"
+            ]
+          },
+          "first_seen": "2026-10-21T19:16:24.596Z"
+        },
+        {
+          "node_type": "item",
+          "title": "Edalitics",
+          "description": "Open source analytics/BI tool. (Source Code)",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -998,7 +1572,7 @@
             "open_issues": 9,
             "owner": "jortilles",
             "repo": "EDA",
-            "stars": 210,
+            "stars": 211,
             "topics": [
               "analytics",
               "business-analytics",
@@ -1008,6 +1582,176 @@
             ]
           },
           "first_seen": "2026-08-29T00:00:15.723Z"
+        },
+        {
+          "node_type": "item",
+          "title": "DataPallas",
+          "description": "Business intelligence platform with interactive dashboards, pivot tables and pixel-perfect report generation.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "description": "🔥One modern BI and data platform. AI data exploration, dashboards, and pixel-perfect report generation — replacing Qlik, Tableau and Crystal Reports.",
+            "homepage": "https://datapallas.com",
+            "id": 733958562,
+            "language": "TypeScript",
+            "license": "NOASSERTION",
+            "last_commit": "2026-10-21T08:16:04Z",
+            "open_issues": 29,
+            "owner": "flowkraft",
+            "repo": "datapallas",
+            "stars": 80,
+            "topics": [
+              "analytics",
+              "business-intelligence",
+              "chat2db",
+              "crystal-reports",
+              "dashboards",
+              "data-exploration",
+              "data-visualization",
+              "jasperreports",
+              "qlik",
+              "reporting",
+              "self-hosted",
+              "tableau",
+              "text2sql"
+            ]
+          },
+          "first_seen": "2026-10-21T19:16:24.596Z"
+        },
+        {
+          "node_type": "item",
+          "title": "GoatCounter Dashboard",
+          "description": "Modern analytics dashboard for GoatCounter with interactive charts, choropleth world map, and demo mode. Single HTML file, no build step, no server. (Demo, Source Code)",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "description": "🐐 A modern, beautiful dashboard for GoatCounter analytics - dark mode, interactive charts, demo mode, world map, responsive design. No server required.",
+            "homepage": "https://abhishekhsingh.github.io/goatcounter-dashboard/",
+            "id": 1221064711,
+            "language": "HTML",
+            "license": "MIT",
+            "last_commit": "2026-07-21T10:19:12Z",
+            "open_issues": 0,
+            "owner": "abhishekhsingh",
+            "repo": "goatcounter-dashboard",
+            "stars": 14,
+            "topics": [
+              "analytics",
+              "choropleth",
+              "choropleth-map",
+              "choropleth-maps",
+              "dark-mode",
+              "dark-mode-ui",
+              "dashboard",
+              "dashboard-templates",
+              "dashboards",
+              "github-pages",
+              "goatcounter",
+              "open-source",
+              "open-source-project",
+              "privacy",
+              "privacy-first",
+              "recharts",
+              "self-hosted",
+              "web-analytics"
+            ]
+          },
+          "first_seen": "2026-10-21T19:16:24.596Z"
+        },
+        {
+          "node_type": "item",
+          "title": "AppRankly",
+          "description": "Self-hosted dashboard bringing together iOS App Store Connect and Google Play Console metrics.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "description": "Self-hosted, open-source mobile app analytics & ASO dashboard for Google Play Store and Apple App Store.",
+            "homepage": "https://zmsp.github.io/AppRankly/#demo",
+            "id": 1310107014,
+            "language": "JavaScript",
+            "license": "NOASSERTION",
+            "last_commit": "2026-10-15T19:27:59Z",
+            "open_issues": 3,
+            "owner": "zmsp",
+            "repo": "AppRankly",
+            "stars": 28,
+            "topics": [
+              "android",
+              "app-store-connect",
+              "apple-app-store",
+              "aso",
+              "dashboards",
+              "docker",
+              "google-play",
+              "google-play-console",
+              "ios",
+              "mobile-analytics",
+              "nodejs",
+              "play-store",
+              "privacy",
+              "react",
+              "retention-analytics",
+              "self-hosted",
+              "store-analytics",
+              "unraid"
+            ]
+          },
+          "first_seen": "2026-10-21T19:16:24.596Z"
+        },
+        {
+          "node_type": "item",
+          "title": "GeoSQL",
+          "description": "AI-native geospatial analytics. Claude/Codex skill that turns natural language into validated SQL + maps on BigQuery and Snowflake.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "description": "A Claude/Codex skill for geospatial data",
+            "homepage": null,
+            "id": 1199203316,
+            "language": "Python",
+            "license": "MIT",
+            "last_commit": "2026-10-09T06:58:47Z",
+            "open_issues": 1,
+            "owner": "dekart-xyz",
+            "repo": "geosql",
+            "stars": 678,
+            "topics": []
+          },
+          "first_seen": "2026-10-21T19:16:24.596Z"
+        },
+        {
+          "node_type": "item",
+          "title": "Dekart",
+          "description": "Open-source geospatial analytics. Turn SQL on BigQuery/Snowflake/PostGIS into shareable interactive maps. (Source Code)",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "description": "Open-source backend for Kepler.gl. Self-hosted alternative to CARTO and Foursquare Studio.",
+            "homepage": "https://dekart.xyz",
+            "id": 325733195,
+            "language": "JavaScript",
+            "license": "AGPL-3.0",
+            "last_commit": "2026-10-21T12:42:43Z",
+            "open_issues": 34,
+            "owner": "dekart-xyz",
+            "repo": "dekart",
+            "stars": 434,
+            "topics": [
+              "analytics",
+              "athena",
+              "bigquey",
+              "deck-gl",
+              "gis-platform",
+              "keplergl",
+              "maps",
+              "snowflakedb",
+              "spatial-analysis",
+              "sql",
+              "vizualisation",
+              "webgl"
+            ]
+          },
+          "first_seen": "2026-10-21T19:16:24.596Z"
         }
       ],
       "title": "Analytics dashboards"
@@ -1031,7 +1775,7 @@
             "open_issues": 105,
             "owner": "sindresorhus",
             "repo": "awesome",
-            "stars": 521866,
+            "stars": 522302,
             "topics": [
               "awesome",
               "awesome-list",
@@ -1058,7 +1802,7 @@
             "open_issues": 64,
             "owner": "bayandin",
             "repo": "awesome-awesomeness",
-            "stars": 33735,
+            "stars": 33738,
             "topics": []
           },
           "first_seen": "2026-08-29T00:00:15.723Z"
@@ -1075,11 +1819,11 @@
             "id": 21500692,
             "language": null,
             "license": "MIT",
-            "last_commit": "2026-07-31T12:51:12Z",
-            "open_issues": 10,
+            "last_commit": "2026-10-21T10:13:41Z",
+            "open_issues": 1,
             "owner": "oxnr",
             "repo": "awesome-bigdata",
-            "stars": 14683,
+            "stars": 14685,
             "topics": [
               "awesome",
               "awesome-list",
@@ -1116,7 +1860,7 @@
             "open_issues": 32,
             "owner": "jnv",
             "repo": "lists",
-            "stars": 11575,
+            "stars": 11579,
             "topics": [
               "awesome",
               "awesome-list",
@@ -1143,7 +1887,7 @@
             "open_issues": 5,
             "owner": "t3chnoboy",
             "repo": "awesome-awesome-awesome",
-            "stars": 2290,
+            "stars": 2291,
             "topics": [
               "awesome",
               "awesome-list"
@@ -1156,7 +1900,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-20T19:11:01.618Z",
+    "last_updated": "2026-10-21T19:16:24.596Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of analytics frameworks, software and other tools.",
@@ -1164,14 +1908,14 @@
       "id": 21604034,
       "language": null,
       "license": "MIT",
-      "last_commit": "2026-02-17T15:25:51Z",
-      "open_issues": 81,
+      "last_commit": "2026-10-21T15:13:57Z",
+      "open_issues": 13,
       "owner": "oxnr",
       "repo": "awesome-analytics",
-      "stars": 4322,
+      "stars": 4326,
       "topics": []
     },
-    "original_repository_sha": "d330a0c0712a02f49638601bbea4909d7d3c8978",
+    "original_repository_sha": "c303f1a0b5595d05205b39ee6f48dff73b88176b",
     "enhanced_repository": "enhansome/enhansome-analytics",
     "enhanced_repository_description": null,
     "title": "Awesome Analytics with stars"
